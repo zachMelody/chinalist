@@ -43,7 +43,7 @@ jobs:
           git-config-email: 41898282+github-actions[bot]@users.noreply.github.com
           commit-message: updated ${{ steps.current-time.outputs.formattedTime }} UTC
 
-      - name: Purge jsDelivr cache
-        run: |
-          wget -q -O - https://purge.jsdelivr.net/gh/Rongronggg9/chinalist@latest/chinalist_smart.txt
-          wget -q -O - https://purge.jsdelivr.net/gh/Rongronggg9/chinalist@latest/chinalist_omega.txt
+#       - name: Purge jsDelivr cache
+#         run: |
+#           wget -q -O - https://purge.jsdelivr.net/gh/Rongronggg9/chinalist@latest/chinalist_smart.txt
+#           wget -q -O - https://purge.jsdelivr.net/gh/Rongronggg9/chinalist@latest/chinalist_omega.txt
