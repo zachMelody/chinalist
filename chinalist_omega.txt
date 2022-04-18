@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-04-17 01:50:21 UTC
+! Updated: 2022-04-18 02:02:58 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -1766,6 +1766,7 @@
 ||187801.com
 ||188.com
 ||188158.com
+||188187.xyz
 ||1884933.com
 ||18856.com
 ||188628.com
@@ -18485,7 +18486,6 @@
 ||dd373.com
 ||dd4.com
 ||dd6300.fun
-||dd66778899.com
 ||dd8828.com
 ||ddbig.com
 ||ddbiquge.cc
@@ -18714,6 +18714,7 @@
 ||derzh.com
 ||des8.com
 ||desaysv.com
+||deserts.io
 ||deshui.wang
 ||design006.com
 ||designboard.cc
@@ -21155,7 +21156,6 @@
 ||eggjs.org
 ||eggscute.com
 ||eggtt.com
-||eghnmj.xyz
 ||egonetworks.org
 ||egongzheng.com
 ||egoonet.com
@@ -27804,7 +27804,6 @@
 ||hk-island.hk
 ||hk-vstart.com
 ||hk.uy
-||hk5.cc
 ||hk515.net
 ||hkaco.com
 ||hkance.com
@@ -27973,7 +27972,6 @@
 ||hngoldcorp.com
 ||hngou.com
 ||hngwg.com
-||hngwmt.com
 ||hngyzx.org
 ||hnh.cc
 ||hnhaofang.com
@@ -28145,7 +28143,6 @@
 ||homolo.net
 ||homylogistics.com
 ||honda-sundiro.com
-||hondooy.com
 ||hong-lawfirm.com
 ||hong-shun.com
 ||hong.ren
@@ -37838,6 +37835,7 @@
 ||lophoctienganh.org
 ||lopkino.com
 ||lopopoo.com
+||lopss.com
 ||lorefree.com
 ||losala.com
 ||losking.com
@@ -39600,7 +39598,6 @@
 ||mgsdk.com
 ||mgslb.com
 ||mgtv.com
-||mgtvzy2.com
 ||mgw999.com
 ||mgwxw.com
 ||mgwyx.com
@@ -40427,6 +40424,7 @@
 ||momoshifu.com
 ||momotn.com
 ||momoyoyo.com
+||momself.club
 ||momzs.com
 ||moneydai.com
 ||moneydata.hk
@@ -43582,7 +43580,6 @@
 ||pe898.com
 ||pea3nut.com
 ||pea3nut.info
-||pea3nut.org
 ||peace-read.com
 ||peaceticket.com
 ||peak-labs.com
@@ -44451,7 +44448,6 @@
 ||printhome.com
 ||printlake.com
 ||prior24.com
-||prismcdn.com
 ||privateadx.com
 ||privatess.win
 ||privspace.net
@@ -45288,6 +45284,7 @@
 ||qincaigame.com
 ||qinchacha.com
 ||qinchu123.com
+||qincj.me
 ||qinco.net
 ||qineasy.com
 ||qinfan.xyz
@@ -46996,7 +46993,6 @@
 ||rosecmsc.com
 ||rosedata.com
 ||rosefinchfund.com
-||roshanca.com
 ||rosi.me
 ||rosinson.com
 ||rossoarts.com
@@ -52223,7 +52219,6 @@
 ||taxwen.com
 ||tayohya.com
 ||tazhe.com
-||taznsb.com
 ||tb.am
 ||tb51.net
 ||tb58.net
@@ -52556,7 +52551,6 @@
 ||teuhui.com
 ||tex68.com
 ||texclo.net
-||text.wiki
 ||textin.com
 ||teyop.com
 ||tezhengma.com
@@ -61795,7 +61789,6 @@
 ||yeshj.com
 ||yeshu.com
 ||yesidos.com
-||yesiness.com
 ||yeskn.com
 ||yesky.com
 ||yeslib.com
