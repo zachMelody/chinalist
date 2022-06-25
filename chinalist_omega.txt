@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-06-24 02:09:31 UTC
+! Updated: 2022-06-25 02:18:14 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -11873,6 +11873,7 @@
 ||boleihg.com
 ||bolejiang.com
 ||bolelink.com
+||bolexiaozhao.com
 ||boll.me
 ||bolo.me
 ||bolopp.com
@@ -12496,6 +12497,7 @@
 ||c-canyin.com
 ||c-cnc.com
 ||c-ctrip.com
+||c-e-m.com
 ||c-estbon.com
 ||c-fol.net
 ||c-lion.com
@@ -15242,6 +15244,7 @@
 ||ciif-expo.com
 ||ciiip.com
 ||ciimg.com
+||ciji234.com
 ||cijilu.com
 ||ciku5.com
 ||cili001.com
@@ -19477,6 +19480,7 @@
 ||dormforce.net
 ||dorrr.com
 ||dortail.com
+||doseeing.com
 ||doserv.com
 ||doshome.com
 ||dosnap.com
@@ -22144,7 +22148,6 @@
 ||fearlazy.com
 ||feaye.com
 ||fecable-gz.com
-||fecmall.com
 ||fecn.net
 ||fecshop.com
 ||fedte.cc
@@ -22745,6 +22748,7 @@
 ||flyfish8.com
 ||flyfishx.com
 ||flyfunny.com
+||flygo.net
 ||flygon.net
 ||flyguest.com
 ||flyine.net
@@ -27051,6 +27055,7 @@
 ||hf12345.vip
 ||hf365.com
 ||hf777.com
+||hfanss.com
 ||hfbaogao.com
 ||hfbeta.com
 ||hfbz.com
@@ -27144,7 +27149,6 @@
 ||hhgslb.com
 ||hhh233.net
 ||hhh885.com
-||hhhai.com
 ||hhhoo.com
 ||hhhstz.com
 ||hhhtnews.com
@@ -28836,6 +28840,7 @@
 ||huoshan.club
 ||huoshan.com
 ||huoshanimg.com
+||huoshanlive.com
 ||huoshanstatic.com
 ||huoshansxy.com
 ||huoshanvod.com
@@ -30017,6 +30022,7 @@
 ||ihungyi.com
 ||ihuochaihe.com
 ||ihuoqiu.com
+||ihuoshanlive.com
 ||ihuoyan.com
 ||ihuyi.com
 ||ihuzuan.com
@@ -32701,7 +32707,6 @@
 ||jjcdn.com
 ||jjcoffetel.cc
 ||jjcoffetels.com
-||jjcpchina.com
 ||jjcto.com
 ||jjdc.net
 ||jjdede.com
@@ -33045,6 +33050,7 @@
 ||joytrav.com
 ||joytraveller.com
 ||joyu.com
+||joyuai.com
 ||joyulf.com
 ||joyuyx.com
 ||joywii.net
@@ -33619,7 +33625,6 @@
 ||jwetech.com
 ||jwfun.com
 ||jwipc.com
-||jwks123.com
 ||jwl100.com
 ||jwnote.com
 ||jwshy.com
@@ -34437,7 +34442,6 @@
 ||kikitamap.com
 ||kikoplay.fun
 ||kiku.vip
-||kikyoar.com
 ||kililife.com
 ||killdb.com
 ||kilvn.com
@@ -36208,6 +36212,7 @@
 ||lgexam.com
 ||lghsrh.com
 ||lgimg.com
+||lgmi.com
 ||lgmjg.com
 ||lgo100.com
 ||lgole.com
@@ -39005,6 +39010,7 @@
 ||metacd.com
 ||metal-min.com
 ||metalchina.com
+||metasecurities.com
 ||meten.com
 ||meteni.com
 ||metenk12.com
@@ -43200,7 +43206,6 @@
 ||phpernote.com
 ||phperxuqin.com
 ||phperz.com
-||phpfans.net
 ||phpfdc.com
 ||phpfs.com
 ||phpha.com
@@ -44940,6 +44945,7 @@
 ||qiyenet.net
 ||qiyeshangpu.com
 ||qiyeshangpu.net
+||qiyetong.com
 ||qiyetuozhan.com
 ||qiyeweixin.com
 ||qiyewenhua.net
@@ -45404,6 +45410,7 @@
 ||quba360.com
 ||qubaike.com
 ||qubaishu.com
+||qubaobei.com
 ||qucai.com
 ||qucaiad.com
 ||qucaidd.com
@@ -46507,6 +46514,7 @@
 ||rtxuc.com
 ||ru4.com
 ||ruaimi.com
+||ruan8.com
 ||ruancan.com
 ||ruandy.com
 ||ruanfujia.com
@@ -48650,7 +48658,6 @@
 ||shuomingshuku.com
 ||shuosanguo.com
 ||shuosc.org
-||shuoshuo4.com
 ||shuoshuo9.com
 ||shuoshuokong.com
 ||shuoshuokong.org
@@ -55404,7 +55411,6 @@
 ||wangtingrui.com
 ||wangtongtong.com
 ||wangtu.com
-||wangtuizhijia.com
 ||wanguan.com
 ||wangukcn.com
 ||wanguoschool.net
@@ -57035,6 +57041,7 @@
 ||wnzhbb.com
 ||wnzhuishu.com
 ||wnzy.net
+||wo-smart.com
 ||wo-xa.com
 ||wo113.net
 ||wo116114.com
@@ -57556,6 +57563,7 @@
 ||wujiexueyuan.com
 ||wujiit.com
 ||wujinimg.com
+||wujinjixie.net
 ||wujixiaoshuo.com
 ||wukong.com
 ||wukong.la
@@ -58865,7 +58873,6 @@
 ||xiaozhewz.com
 ||xiaozhibaoxian.com
 ||xiaozhibo.com
-||xiaozhishi.net
 ||xiaozhiyun.com
 ||xiaozhu.com
 ||xiaozhu2.com
@@ -62992,6 +62999,7 @@
 ||yunlie.net
 ||yunlietou.com
 ||yunliketech.com
+||yunliunet.com
 ||yunmai.com
 ||yunmayi.com
 ||yunmd.net
@@ -65388,6 +65396,7 @@
 ||zkyxls.com
 ||zkzhkj.com
 ||zkzj.org
+||zl168.xyz
 ||zl99.org
 ||zlbaba.com
 ||zlca.org
