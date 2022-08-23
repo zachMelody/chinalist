@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-08-22 02:22:26 UTC
+! Updated: 2022-08-23 02:29:27 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -2964,6 +2964,7 @@
 @@||361dai.com
 @@||361games.com
 @@||361mogame.com
+@@||361shipin.com
 @@||361sport.com
 @@||361way.com
 @@||362.cc
@@ -4737,7 +4738,6 @@
 @@||567idc.com
 @@||5684.com
 @@||569.com
-@@||5694.com
 @@||56a.com
 @@||56ads.com
 @@||56beijing.org
@@ -5869,7 +5869,6 @@
 @@||7flowers.com
 @@||7forz.com
 @@||7fresh.com
-@@||7fun.org
 @@||7gz.com
 @@||7hcn.com
 @@||7help.net
@@ -6149,7 +6148,6 @@
 @@||8558.org
 @@||85679999.com
 @@||857yzf.com
-@@||85814.com
 @@||85878078.com
 @@||858game.com
 @@||858guakao.com
@@ -6307,6 +6305,7 @@
 @@||88eq.com
 @@||88fenxiao.com
 @@||88h3.com
+@@||88hd.com
 @@||88hom.com
 @@||88ht.com
 @@||88htu.com
@@ -6992,6 +6991,8 @@
 @@||98ep.com
 @@||98fp.com
 @@||98jx.com
+@@||98kkw.com
+@@||98kpm.com
 @@||98mp.com
 @@||98nice.com
 @@||98one.com
@@ -11630,7 +11631,6 @@
 @@||bobcoder.cc
 @@||bobdirectbank.com
 @@||bobidc.com
-@@||bobiman.com
 @@||boblog.com
 @@||bobo.com
 @@||bobopic.com
@@ -14612,7 +14612,6 @@
 @@||chinauos.com
 @@||chinauos.net
 @@||chinauos.org
-@@||chinaupa.com
 @@||chinaups.com
 @@||chinaus-maker.org
 @@||chinaus.com
@@ -18094,7 +18093,6 @@
 @@||dede168.com
 @@||dedeapps.com
 @@||dedecms.com
-@@||dedecms51.com
 @@||dedecmsplus.com
 @@||dededao.com
 @@||dedeeims.com
@@ -18727,7 +18725,6 @@
 @@||dishuge.com
 @@||dishuizhijia.com
 @@||diskgenius.com
-@@||disksing.com
 @@||dislytegame.com
 @@||dismall.com
 @@||disneybox.com
@@ -20520,7 +20517,6 @@
 @@||eeioe.com
 @@||eelly.com
 @@||eeloves.com
-@@||eenot.com
 @@||eeook.com
 @@||eeparking.com
 @@||eeq8.com
@@ -21853,6 +21849,7 @@
 @@||fcheche.com
 @@||fcjob.net
 @@||fcjob88.com
+@@||fclouddns.net
 @@||fcloudpaas.com
 @@||fcnes.com
 @@||fcpiao.com
@@ -22466,7 +22463,6 @@
 @@||flvsp.com
 @@||flvurl.net
 @@||flxc.net
-@@||flxdns.com
 @@||flxz.com
 @@||fly1999.com
 @@||fly3949.com
@@ -26052,7 +26048,6 @@
 @@||harmony3.com
 @@||harmony4s.com
 @@||harmonyos.com
-@@||haroldrandom.me
 @@||harrynull.tech
 @@||harrypottermagicawakened.com
 @@||hartlepool-myschool.com
@@ -26268,7 +26263,6 @@
 @@||hbtxbaidu.com
 @@||hbtybio.com
 @@||hbtycp.com
-@@||hbweishuo.com
 @@||hbwh.net
 @@||hbwhgs.com
 @@||hbwhjj.com
@@ -29397,7 +29391,6 @@
 @@||idcsec.com
 @@||idcser.com
 @@||idcsh.com
-@@||idcsh.net
 @@||idcsped.com
 @@||idcspy.com
 @@||idcspy.net
@@ -35734,6 +35727,7 @@
 @@||leslie-cheung.com
 @@||lesofaka.com
 @@||lesports.com
+@@||less-bug.com
 @@||lesscss.net
 @@||lessisbetter.site
 @@||lesun.org
@@ -38367,7 +38361,6 @@
 @@||meierbei.com
 @@||meifajie.com
 @@||meifang8.com
-@@||meifazu.com
 @@||meigeinc.com
 @@||meigongla.com
 @@||meigongyun.com
@@ -40420,7 +40413,6 @@
 @@||nb301.xyz
 @@||nb591.com
 @@||nb888888.com
-@@||nba008.com
 @@||nbabm.com
 @@||nbadpark.com
 @@||nbahero.com
@@ -40909,7 +40901,6 @@
 @@||niubi114.com
 @@||niubilai.com
 @@||niubilety.com
-@@||niubiquan.com
 @@||niubixia.com
 @@||niuboli.com
 @@||niucache.com
@@ -40963,7 +40954,6 @@
 @@||nizuixing.com
 @@||nj-bl.com
 @@||nj-marathon.org
-@@||njaeqjx.com
 @@||njbaisou.com
 @@||njc100.com
 @@||njcdata.com
@@ -44991,6 +44981,7 @@
 @@||quegoo.com
 @@||queji.tw
 @@||queniubg.com
+@@||queniucf.com
 @@||queniufm.com
 @@||queqiaoba.com
 @@||querylist.cc
@@ -46230,6 +46221,7 @@
 @@||rxjy.com
 @@||rxshc.com
 @@||rxys.com
+@@||ry.rs
 @@||ryanbencapital.com
 @@||ryanc.cc
 @@||rybbaby.com
@@ -46506,7 +46498,6 @@
 @@||sbanfu.com
 @@||sbanzu.com
 @@||sbc-mcc.com
-@@||sbc665.com
 @@||sbeira.com
 @@||sbh15.com
 @@||sbiquge.com
@@ -47523,7 +47514,6 @@
 @@||shengjoy.com
 @@||shengli.com
 @@||shengming.net
-@@||shengminsy.com
 @@||shengniuuz.com
 @@||shengpay.com
 @@||shengqian51.com
@@ -49782,6 +49772,7 @@
 @@||stutimes.com
 @@||stvgame.com
 @@||styadmin.com
+@@||stylar.hk
 @@||stylecdn.com
 @@||stylejie.com
 @@||stylemode.com
@@ -49896,7 +49887,6 @@
 @@||sulandscape.com
 @@||sule.cc
 @@||suleapi.com
-@@||sulianlian.com
 @@||suliaodingzhi.com
 @@||sumaart.com
 @@||sumaarts.com
@@ -51930,7 +51920,6 @@
 @@||tjjwt.com
 @@||tjkx.com
 @@||tjkximg.com
-@@||tjkyhr.com
 @@||tjllhbkj.com
 @@||tjluohuzhijia.com
 @@||tjmama.com
@@ -52315,6 +52304,7 @@
 @@||toufu321.com
 @@||toughcoder.net
 @@||tougub.com
+@@||touhou.casa
 @@||touhou.cd
 @@||touhou.vote
 @@||toujidao.com
@@ -52594,7 +52584,6 @@
 @@||tsqt.net
 @@||tsqw.com
 @@||tsrcw.com
-@@||tssakura.com
 @@||tsshunxin.com
 @@||tssns.net
 @@||tsstorry.com
@@ -53236,7 +53225,6 @@
 @@||u9u8.com
 @@||u9u9.com
 @@||ua168.com
-@@||uadrc.com
 @@||uami-global.org
 @@||uao-online.com
 @@||uao.so
@@ -53520,7 +53508,6 @@
 @@||umlonline.org
 @@||umowang.com
 @@||umpay.com
-@@||umr18.club
 @@||ums86.com
 @@||umsns.com
 @@||umtrack.com
@@ -56067,7 +56054,6 @@
 @@||whxc01.com
 @@||whxh.com
 @@||whxinhuo.com
-@@||whxsnsy.com
 @@||whxunw.com
 @@||whxy.net
 @@||whxyqb.com
@@ -56213,7 +56199,6 @@
 @@||windcoder.com
 @@||windever.com
 @@||windin.com
-@@||windleaf.site
 @@||windmsn.com
 @@||windows10.pro
 @@||windows10zj.com
@@ -56903,7 +56888,6 @@
 @@||wt8.com
 @@||wtaluo.com
 @@||wtango.com
-@@||wtaovip.com
 @@||wtapi.com
 @@||wtbds.com
 @@||wtdex.com
@@ -59024,6 +59008,7 @@
 @@||xkpx.com
 @@||xkqyfw.com
 @@||xksafe.com
+@@||xktoupiao.com
 @@||xkw.com
 @@||xkwe.com
 @@||xkyn.com
@@ -59810,7 +59795,6 @@
 @@||xyb100.com
 @@||xybsyw.com
 @@||xybygw.com
-@@||xyc999.com
 @@||xycaogen.com
 @@||xycareer.com
 @@||xycdn.com
@@ -64865,7 +64849,6 @@
 @@||znqnet.com
 @@||znshuru.com
 @@||znsjw.com
-@@||zntec.net
 @@||zntvrom.com
 @@||zntx.cc
 @@||zntxt.com
@@ -65042,7 +65025,6 @@
 @@||zsafw.com
 @@||zsapp.info
 @@||zsaxi.com
-@@||zsb353.com
 @@||zsbeike.com
 @@||zsbit.com
 @@||zsc.io
