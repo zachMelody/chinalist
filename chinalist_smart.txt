@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-08-28 02:39:02 UTC
+! Updated: 2022-08-29 02:36:41 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -1740,7 +1740,6 @@
 @@||18link.com
 @@||18ph.com
 @@||18qiang.com
-@@||18shuwu.net
 @@||18touch.com
 @@||18vps.com
 @@||18wk.com
@@ -3769,7 +3768,6 @@
 @@||517tez.com
 @@||517w.com
 @@||517xc.com
-@@||517zp.com
 @@||5184.com
 @@||51845.com
 @@||5184edu.com
@@ -6256,7 +6254,6 @@
 @@||88360.com
 @@||8838sl.com
 @@||884109.com
-@@||884134.com
 @@||884358.com
 @@||8844.com
 @@||88444l.cc
@@ -8802,6 +8799,7 @@
 @@||anyuantec.com
 @@||anyunjianzhan.com
 @@||anyv.net
+@@||anyview.net
 @@||anyway.fm
 @@||anywlan.com
 @@||anywood.com
@@ -10222,6 +10220,7 @@
 @@||bbbbbb.me
 @@||bbbtgo.com
 @@||bbbvip.com
+@@||bbchin.com
 @@||bbcss.com
 @@||bbctop.com
 @@||bbcyw.com
@@ -18579,6 +18578,8 @@
 @@||dierkezhan.com
 @@||diershoubing.com
 @@||dietfd.com
+@@||diezhan.me
+@@||diezhan6.com
 @@||difanapp.com
 @@||difangfengsu.com
 @@||dig-gy.com
@@ -21173,6 +21174,7 @@
 @@||eve.moe
 @@||eventdove.com
 @@||events2.djicdn.com
+@@||everbaas.com
 @@||everdns.com
 @@||evereasycom.com
 @@||everedit.net
@@ -21454,7 +21456,6 @@
 @@||face2ai.com
 @@||faceboer.com
 @@||facecloud.net
-@@||faceh5.com
 @@||facehufu.com
 @@||faceid.com
 @@||faceminiproject.online
@@ -24823,7 +24824,6 @@
 @@||guifun.com
 @@||guigu.org
 @@||guiguzhongguo.com
-@@||guiheyue.com
 @@||guihua.com
 @@||guihuayun.com
 @@||guiji.com
@@ -31943,6 +31943,7 @@
 @@||jingguan.ai
 @@||jinghaishop.com
 @@||jinghangapps.com
+@@||jinghooo.com
 @@||jinghua.com
 @@||jinghujiaoyu.com
 @@||jingjia.org
@@ -45326,7 +45327,6 @@
 @@||rbcty.com
 @@||rbischina.org
 @@||rbqq.com
-@@||rbyair.com
 @@||rbz1672.com
 @@||rbzygs.com
 @@||rc114.com
@@ -50069,6 +50069,7 @@
 @@||sw996.com
 @@||swaeab.com
 @@||swakopuranium.com
+@@||swallow.apple.com
 @@||swang8.com
 @@||swansea86.com
 @@||swansonchina.com
@@ -53617,7 +53618,6 @@
 @@||uqee.com
 @@||uqeegame.com
 @@||uqer.io
-@@||uqi.me
 @@||uqidong.com
 @@||uqidong.net
 @@||uqite.com
@@ -55650,6 +55650,7 @@
 @@||wetvinfo.com
 @@||wewean.com
 @@||wewinpe.com
+@@||weworkcloudesk.com
 @@||wex5.com
 @@||wexin.com
 @@||wey.com
@@ -57403,6 +57404,7 @@
 @@||xazzp.com
 @@||xazzs.com
 @@||xb100.net
+@@||xb21cn.com
 @@||xb2s.com
 @@||xb5.cc
 @@||xbaofun.com
