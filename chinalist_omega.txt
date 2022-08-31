@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-08-30 02:43:24 UTC
+! Updated: 2022-08-31 02:48:45 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -2329,7 +2329,6 @@
 ||25dx.com
 ||25game.com
 ||25ku.com
-||25mao.com
 ||25nc.com
 ||25pp.com
 ||25pyg.com
@@ -2667,6 +2666,7 @@
 ||324.com
 ||3259.com
 ||32800.com
+||328888.xyz
 ||328f.com
 ||328vip.com
 ||32bh.com
@@ -6395,7 +6395,6 @@
 ||8qwx.com
 ||8s123.com
 ||8she.com
-||8taobaodian.com
 ||8tgh.com
 ||8ttt8.com
 ||8tupian.com
@@ -12796,6 +12795,7 @@
 ||cccitu.com
 ||cccity.cc
 ||ccciw.com
+||cccmat.com
 ||cccnec.com
 ||cccollector.com
 ||cccpan.com
@@ -16946,7 +16946,6 @@
 ||ctcnn.com
 ||ctcnpa.com
 ||ctcwri.org
-||ctdc-itshare.org
 ||ctdcn.com
 ||ctdisk.com
 ||ctdns.net
@@ -18955,6 +18954,7 @@
 ||dns110.com
 ||dns123.net
 ||dns12345.com
+||dns200.net
 ||dns2008.com
 ||dns383.com
 ||dns567.com
@@ -19565,6 +19565,7 @@
 ||duantian.com
 ||duanwenxue.com
 ||duanwxue.com
+||duanxb.com
 ||duanxin321.com
 ||duanxin520.com
 ||duanyoutv.vip
@@ -27448,6 +27449,7 @@
 ||hongqipress.com
 ||hongrenzhuang.site
 ||hongru.com
+||hongruike.com
 ||hongsat.com
 ||hongsehuoxian.com
 ||hongsejiqing.com
@@ -31851,6 +31853,7 @@
 ||jilinpujiyiyuan.com
 ||jilinwula.com
 ||jiliyun.com
+||jimeisilk.com
 ||jimeng.mobi
 ||jimi168.com
 ||jimicn.com
@@ -32099,7 +32102,6 @@
 ||jinyongwang.com
 ||jinyoukai.com
 ||jinyueya.com
-||jinyunfood.com
 ||jinyunweb.com
 ||jinyuzd.cc
 ||jinzheled.com
@@ -39294,6 +39296,7 @@
 ||modernsky.com
 ||modernweekly.com
 ||modian.com
+||modianverse.com
 ||modooplay.com
 ||modulesocean.com
 ||moduovr.com
@@ -40476,7 +40479,6 @@
 ||neoease.org
 ||neofussvr.sslcs.cdngc.net
 ||neojos.com
-||neokylinschool.com
 ||neolee.com
 ||neolix.net
 ||neoremind.com
@@ -42113,6 +42115,7 @@
 ||pa18.com
 ||pa1pa.com
 ||paahu.com
+||paalermat.com
 ||paascloud.net
 ||paat.com
 ||pabulika.com
@@ -49996,6 +49999,7 @@
 ||surdoc.net
 ||sure56.com
 ||suremotoo.site
+||surgerycast.com
 ||surprising.studio
 ||sursen.com
 ||sursenelec.com
@@ -59312,6 +59316,7 @@
 ||xuancheng.org
 ||xuandan.com
 ||xuande99.com
+||xuandecarpet.com
 ||xuandui.me
 ||xuanfengge.com
 ||xuanfengkeji.com
@@ -59846,7 +59851,6 @@
 ||y6162.com
 ||y7q8.com
 ||y80s.com
-||y821.cc
 ||y999.com
 ||y9photo.com
 ||ya17.com
@@ -64099,6 +64103,7 @@
 ||zhugeapi.net
 ||zhugefang.com
 ||zhugeio.com
+||zhuhaihaofang.com
 ||zhuhaily.com
 ||zhuhaimy.com
 ||zhuhd.win
