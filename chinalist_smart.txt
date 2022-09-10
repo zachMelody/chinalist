@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-09-09 02:40:27 UTC
+! Updated: 2022-09-10 02:40:45 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -169,7 +169,6 @@
 @@||023086.com
 @@||02345678.com
 @@||023buy.com
-@@||023che.com
 @@||023cq.cc
 @@||023dir.com
 @@||023dns.com
@@ -473,7 +472,6 @@
 @@||0712zpw.com
 @@||071333.com
 @@||0713fang.com
-@@||0714news.com
 @@||0715fc.com
 @@||0715rc.com
 @@||0715zp.com
@@ -1121,7 +1119,6 @@
 @@||12580.com
 @@||12580.net
 @@||12580.tv
-@@||12580emall.com
 @@||12580jnh.com
 @@||12580study.com
 @@||125a.net
@@ -1949,6 +1946,7 @@
 @@||1zhao.org
 @@||1zhe.com
 @@||1zhengji.com
+@@||1zhixue.com
 @@||1ziyou.com
 @@||1zjob.com
 @@||1zr.com
@@ -2267,7 +2265,6 @@
 @@||23yy.com
 @@||240yx.com
 @@||243ty.com
-@@||244101.cc
 @@||246546.com
 @@||2478.com
 @@||248.com
@@ -2538,7 +2535,6 @@
 @@||301688.com
 @@||301mba.com
 @@||301nn.com
-@@||301tz.cc
 @@||301zhuanfa.com
 @@||3023.com
 @@||302302.xyz
@@ -3119,6 +3115,7 @@
 @@||37wanimg.com
 @@||37women.com
 @@||37www.com
+@@||37wxwl.com
 @@||37yue.com
 @@||37yzy.com
 @@||37zone.com
@@ -3139,6 +3136,7 @@
 @@||383yun.com
 @@||387a.com
 @@||3887.com
+@@||388g.com
 @@||3892222.com
 @@||3895566.com
 @@||3899.net
@@ -4436,7 +4434,6 @@
 @@||52inwet.com
 @@||52itstyle.com
 @@||52itstyle.vip
-@@||52jbh.com
 @@||52jbj.com
 @@||52jdyy.com
 @@||52jiaoshi.com
@@ -4769,7 +4766,6 @@
 @@||57auto.com
 @@||57dp.com
 @@||57ee.net
-@@||57fx.com
 @@||57gif.com
 @@||57go.com
 @@||57lai.com
@@ -9181,7 +9177,6 @@
 @@||artwe.com
 @@||artwer.com
 @@||artww.com
-@@||artxuanyi.com
 @@||artxun.com
 @@||arvato-ocs.com
 @@||arvinhk.com
@@ -11826,6 +11821,7 @@
 @@||breakingnewsireland.com
 @@||breakyizhan.com
 @@||brentron.com
+@@||brg0.com
 @@||bricktou.com
 @@||bridge-image.com
 @@||bridgee.net
@@ -12158,6 +12154,7 @@
 @@||byjsjxy.com
 @@||byjzxy.com
 @@||bykjad.com
+@@||bykszb.com
 @@||byloue.com
 @@||bylwcc.com
 @@||bylwjc.com
@@ -14570,7 +14567,6 @@
 @@||chinavivaki.com
 @@||chinavoa.com
 @@||chinavr.net
-@@||chinawaiyu.com
 @@||chinawanda.com
 @@||chinawatchnet.com
 @@||chinawbk.com
@@ -14597,6 +14593,7 @@
 @@||chinaxqf.com
 @@||chinaxueqian.com
 @@||chinaxwcb.com
+@@||chinaxy.com
 @@||chinaxzrc.com
 @@||chinayigou.com
 @@||chinayigui.com
@@ -15059,6 +15056,7 @@
 @@||citexpo.org
 @@||citiais.com
 @@||citic-cid.com
+@@||citic-wealth.com
 @@||citic.com
 @@||citicbank.com
 @@||citicbankuser.com
@@ -15592,7 +15590,6 @@
 @@||cndhotels.com
 @@||cndids.com
 @@||cndingxi.com
-@@||cndip.com
 @@||cndkc.net
 @@||cndns.com
 @@||cndns5.com
@@ -16018,7 +16015,6 @@
 @@||cnyouhao.com
 @@||cnys.com
 @@||cnyu.com
-@@||cnyugan.com
 @@||cnyuming.com
 @@||cnyw.net
 @@||cnywinfo.com
@@ -18254,7 +18250,6 @@
 @@||dg114.com
 @@||dg121.com
 @@||dgbfzz88.com
-@@||dgch.net
 @@||dgchangan.com
 @@||dgddh.xyz
 @@||dgdxs.com
@@ -19153,6 +19148,7 @@
 @@||door-expo.com
 @@||dooreb.com
 @@||doorhr.com
+@@||doowinfintec.com
 @@||dopa.com
 @@||dopic.net
 @@||dora-control.cdnetworks.com
@@ -19694,7 +19690,6 @@
 @@||dutype.com
 @@||duuchin.com
 @@||duunion.com
-@@||duwenfei.com
 @@||duwenxue.com
 @@||duwenz.com
 @@||duwenzhang.com
@@ -19743,6 +19738,7 @@
 @@||dwz.date
 @@||dwz.lc
 @@||dwz.mk
+@@||dwzjd.com
 @@||dx-job.com
 @@||dx-tech.com
 @@||dx00.net
@@ -19823,7 +19819,6 @@
 @@||dylxx.net
 @@||dyly.com
 @@||dyonr.com
-@@||dypai.com
 @@||dyqc.com
 @@||dyrbw.com
 @@||dyrcb.net
@@ -21151,6 +21146,7 @@
 @@||evzhidao.com
 @@||ew9z.com
 @@||ewaga.com
+@@||ewaiyou.com
 @@||ewang.com
 @@||ewanshang.com
 @@||ewarecomputer.com
@@ -21444,7 +21440,6 @@
 @@||faiww.com
 @@||fajiayun.com
 @@||fajjj.com
-@@||faka.cat
 @@||fakeloc.cc
 @@||fala114.com
 @@||falomall.com
@@ -22778,6 +22773,7 @@
 @@||fujiansme.com
 @@||fujieace.com
 @@||fujincenter.com
+@@||fujinjiazheng.com
 @@||fuka.cc
 @@||fukeha.com
 @@||fulantv.com
@@ -23442,7 +23438,6 @@
 @@||gdiso.com
 @@||gdjdxy.com
 @@||gdjinge.com
-@@||gdjn.org
 @@||gdjqwl.com
 @@||gdjyw.com
 @@||gdkaman.com
@@ -24636,6 +24631,7 @@
 @@||guajob.com
 @@||guakaoba.com
 @@||gualemang.com
+@@||guan.com
 @@||guan.wang
 @@||guan5.com
 @@||guanaitong.com
@@ -25403,6 +25399,7 @@
 @@||haigui001.com
 @@||haiguime.com
 @@||haihaiyu.com
+@@||haihuishou.com
 @@||haijia.org
 @@||haijiangzx.com
 @@||haijiaonet.com
@@ -25436,6 +25433,7 @@
 @@||hainanfz.com
 @@||hainanjiuzi.com
 @@||hainanpc.net
+@@||hainiaowo.com
 @@||hainic.com
 @@||haining.tv
 @@||hainingnews.net
@@ -26001,7 +25999,6 @@
 @@||hbcg.cc
 @@||hbchen.com
 @@||hbciqtc.com
-@@||hbcjaq.com
 @@||hbcjh.net
 @@||hbcjlq.com
 @@||hbcjw.com
@@ -28301,6 +28298,7 @@
 @@||huizone.com
 @@||huizuche.com
 @@||huizuoyuezi.com
+@@||huizustore.com
 @@||hujia.org
 @@||hujiang.com
 @@||hujiuzhou.com
@@ -28372,6 +28370,7 @@
 @@||huoban.com
 @@||huobanjs.com
 @@||huobanmall.com
+@@||huobanniu.com
 @@||huobanxietong.com
 @@||huobaowang.com
 @@||huobaoyx.com
@@ -28404,6 +28403,7 @@
 @@||huogz.com
 @@||huohoo.com
 @@||huohu123.com
+@@||huohuacdn.com
 @@||huohuo.com
 @@||huohuolife.com
 @@||huoji.com
@@ -29894,6 +29894,7 @@
 @@||imglink.win
 @@||imgo.tv
 @@||imgscdn.com
+@@||imgse.com
 @@||imgsha.com
 @@||imgshangman.com
 @@||imgsina.com
@@ -30965,6 +30966,7 @@
 @@||izazamall.com
 @@||izdatatech.com
 @@||izestchina.com
+@@||izhanchi.com
 @@||izhangchu.com
 @@||izhangheng.com
 @@||izhaohe.com
@@ -33430,6 +33432,7 @@
 @@||k3887.com
 @@||k4nz.com
 @@||k518.com
+@@||k5n.com
 @@||k6271.com
 @@||k666.com
 @@||k6uk.com
@@ -33584,6 +33587,7 @@
 @@||kangpeining.com
 @@||kangqite.com
 @@||kangre.com
+@@||kangshuai.biz
 @@||kanguo.com
 @@||kanguowai.com
 @@||kangxi55wlsf.com
@@ -33766,6 +33770,7 @@
 @@||kdzxedu.com
 @@||ke.com
 @@||ke01.com
+@@||ke51.com
 @@||ke6.com
 @@||ke86.com
 @@||ke8u.com
@@ -33939,7 +33944,6 @@
 @@||kezool.com
 @@||kf.ai
 @@||kf3msfm.com
-@@||kf4137.com
 @@||kf5.com
 @@||kf911.com
 @@||kfadx.tech
@@ -34956,7 +34960,6 @@
 @@||laily.net
 @@||laima-tech.com
 @@||laimaidi.com
-@@||laina.vip
 @@||laipeitu.com
 @@||laiqi.net
 @@||laiqukankan.com
@@ -39004,6 +39007,7 @@
 @@||miyaboke.com
 @@||miyanlife.com
 @@||miyapay.com
+@@||miyatech.com
 @@||miyouu.com
 @@||miyuangz.com
 @@||miyupu.com
@@ -39199,6 +39203,7 @@
 @@||mobeehome.com
 @@||mobeiwenhua.com
 @@||mobgi.com
+@@||mobiapp.cloud
 @@||mobibao.com
 @@||mobibrw.com
 @@||mobike.com
@@ -40411,6 +40416,7 @@
 @@||neigou.com
 @@||neihan8.com
 @@||neihanshequ.com
+@@||neisha.cc
 @@||neitui.com
 @@||neituixiaowangzi.com
 @@||neko.pub
@@ -41166,6 +41172,7 @@
 @@||nuandao.com
 @@||nuanjiayuan.com
 @@||nuanmaoer.com
+@@||nuannuanzu.com
 @@||nuanshi100.com
 @@||nuanyuehanxing.com
 @@||nubb.com
@@ -42311,6 +42318,8 @@
 @@||patsev.com
 @@||patsnapglobal.com
 @@||paul.pub
+@@||paulzzh.com
+@@||paulzzh.tech
 @@||paxdn.com
 @@||paxgl.com
 @@||paydxm.com
@@ -42546,7 +42555,6 @@
 @@||petpcb.com
 @@||petroren.com
 @@||petrvet.com
-@@||pets12345.com
 @@||pettime.info
 @@||pettwo.com
 @@||pewld.com
@@ -43947,6 +43955,7 @@
 @@||qianyu56.com
 @@||qianyuangx.com
 @@||qianyue999.com
+@@||qianyunyingyong.com
 @@||qianyuwang.com
 @@||qianzhan.com
 @@||qianzhan123.com
@@ -43966,6 +43975,7 @@
 @@||qiaohumall.com
 @@||qiaohumi.com
 @@||qiaojiang.tv
+@@||qiaomaren.com
 @@||qiaomi.com
 @@||qiaomizi.vip
 @@||qiaomukeji.com
@@ -44340,7 +44350,6 @@
 @@||qiuxue360.com
 @@||qiuyexitong.com
 @@||qiuyueban.com
-@@||qiuyuewenxue.com
 @@||qiuyumi.com
 @@||qiuzhang.com
 @@||qiuzhijiangtang.com
@@ -46215,6 +46224,7 @@
 @@||sairui020.com
 @@||saite-xdc.com
 @@||saitjr.com
+@@||saiyangame.com
 @@||saiyouedu.net
 @@||saiyunyx.com
 @@||sakway.com
@@ -46805,7 +46815,6 @@
 @@||seersee.com
 @@||seeseed.com
 @@||seeshentech.com
-@@||seesoso.com
 @@||seetao.com
 @@||seewellintl.net
 @@||seewo.com
@@ -49236,7 +49245,6 @@
 @@||space1688.com
 @@||spacechina.com
 @@||spacesystech.com
-@@||spacexlanding.com
 @@||spark-app.store
 @@||spark4y.com
 @@||sparkandshine.net
@@ -49897,6 +49905,7 @@
 @@||supei.com
 @@||super-mall.shop
 @@||super-mt.com
+@@||superayi.com
 @@||superboss.cc
 @@||superbrowser.hk
 @@||superbuy.com
@@ -50476,7 +50485,6 @@
 @@||szt365.com
 @@||sztaijier.com
 @@||sztalent.org
-@@||sztanko.com
 @@||sztara.com
 @@||sztkc.com
 @@||sztmt.com
@@ -54144,8 +54152,6 @@
 @@||viptarena.com
 @@||viptest.net
 @@||viptijian.com
-@@||vipwaf.com
-@@||vipwaf.net
 @@||vipwhjtsgpc.com
 @@||vipxap.com
 @@||vipxdns.com
@@ -54581,6 +54587,7 @@
 @@||wakingsands.com
 @@||wakkaa.com
 @@||wakuai.com
+@@||wal8.com
 @@||walahe.com
 @@||walanwalan.com
 @@||walatao.com
@@ -55386,6 +55393,7 @@
 @@||weiyichina.org
 @@||weiyiminhenqiang.com
 @@||weiyiqibj.com
+@@||weiyitec.com
 @@||weiyituku.com
 @@||weiyoubot.com
 @@||weiyours.com
@@ -56458,7 +56466,6 @@
 @@||wonderjk.com
 @@||wonderkun.cc
 @@||wondermars.com
-@@||wondermole.com
 @@||wonderscloud.com
 @@||wondersgroup.com
 @@||wondershare.cc
@@ -57326,7 +57333,6 @@
 @@||xatielu.com
 @@||xatongsheng.net
 @@||xatvs.com
-@@||xatyaviation.com
 @@||xatyds.com
 @@||xatyyx.com
 @@||xatzj.com
@@ -57524,6 +57530,7 @@
 @@||xdwyx.com
 @@||xdxdsz.com
 @@||xdxmwang.com
+@@||xdxx.ink
 @@||xdyqw.com
 @@||xdzdzl.com
 @@||xedaojia.com
@@ -58528,7 +58535,6 @@
 @@||xinpianchang.com
 @@||xinpianyugao.com
 @@||xinpinget.com
-@@||xinpujie.com
 @@||xinpure.com
 @@||xinqiannv.com
 @@||xinqigu.com
@@ -60326,7 +60332,6 @@
 @@||yfcache.com
 @@||yfcdn.net
 @@||yfcloud.com
-@@||yfcloud.io
 @@||yfcmf.net
 @@||yfdc.net
 @@||yfdns.net
@@ -61598,6 +61603,7 @@
 @@||youxizhan.com
 @@||youxizhongguo.com
 @@||youxizhuang.com
+@@||youxuan.com
 @@||youxuanan.com
 @@||youxuangu.com
 @@||youxueke.com
@@ -61746,7 +61752,6 @@
 @@||ys1688.cc
 @@||ys2345.com
 @@||ys4fun.com
-@@||ys666888.com
 @@||ys7.com
 @@||ys720.com
 @@||ys8.com
@@ -63473,6 +63478,7 @@
 @@||zhenghemold.com
 @@||zhengjia.com
 @@||zhengjiantong.com
+@@||zhengjianzhao.com
 @@||zhengjicn.com
 @@||zhengjie.com
 @@||zhengmeng.net
@@ -63585,7 +63591,6 @@
 @@||zhicms.cc
 @@||zhidao91.com
 @@||zhidaoanli.com
-@@||zhidaolo.com
 @@||zhidemai.com
 @@||zhidesoft.com
 @@||zhideyimai.com
@@ -64242,7 +64247,6 @@
 @@||zijinfx.com
 @@||zijinji.com
 @@||zijinsuo.com
-@@||zijiren.net
 @@||zijizhang.com
 @@||zikao-zikao.com
 @@||zikao.gd
@@ -65007,6 +65011,7 @@
 @@||zuchecdn.com
 @@||zucp.net
 @@||zudeapp.com
+@@||zudequ.com
 @@||zudong.com
 @@||zufang.com
 @@||zufangbao.com
@@ -65273,7 +65278,6 @@
 @@||zycsc.com
 @@||zyctd.com
 @@||zycultura.com
-@@||zydsy.com
 @@||zye.cc
 @@||zyea.com
 @@||zyecp.com
