@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-09-13 02:42:09 UTC
+! Updated: 2022-09-14 02:39:19 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -616,7 +616,6 @@
 ||08an.com
 ||08c6.com
 ||08cms.com
-||08g.cc
 ||08ky.com
 ||08px.com
 ||090expo.com
@@ -5693,7 +5692,6 @@
 ||777biubiu.com
 ||777lala.com
 ||777moban.com
-||777n.com
 ||7788.com
 ||7788aabb.com
 ||7788js.com
@@ -8196,6 +8194,7 @@
 ||alfheim.cc
 ||algorithmart.com
 ||ali-health.com
+||ali-star.com
 ||ali213.com
 ||ali213.net
 ||ali37.net
@@ -8896,7 +8895,6 @@
 ||apjingsi.com
 ||apk3.com
 ||apkevery.com
-||apkgu.com
 ||apkplug.com
 ||apkrj.com
 ||apkyx.com
@@ -10677,7 +10675,6 @@
 ||bianews.com
 ||bianfeng.com
 ||bianhao6.com
-||bianjibu.net
 ||bianjiqi.net
 ||bianjiyi.com
 ||bianlidianjiameng.net
@@ -10983,6 +10980,7 @@
 ||birdbro.com
 ||birdol.com
 ||birdpush.com
+||birentech.com
 ||bisairi.com
 ||bisenet.com
 ||bishen.ink
@@ -11663,7 +11661,6 @@
 ||boohee.com
 ||book118.com
 ||book1234.com
-||book365.net
 ||book520.com
 ||bookask.com
 ||bookba.net
@@ -12100,6 +12097,7 @@
 ||bxrfund.com
 ||bxsnews.com
 ||bxsychina.com
+||bxv8.com
 ||bxwst.com
 ||bxwx.la
 ||bxwx.tv
@@ -14254,7 +14252,6 @@
 ||chinahao.com
 ||chinaharp.com
 ||chinahazelnut.com
-||chinahbnet.com
 ||chinahightech.com
 ||chinahighway.com
 ||chinahkidc.net
@@ -14575,6 +14572,7 @@
 ||chinaxiaokang.com
 ||chinaxinge.com
 ||chinaxinport.com
+||chinaxinye.com
 ||chinaxpp.com
 ||chinaxq.com
 ||chinaxqf.com
@@ -15795,6 +15793,7 @@
 ||cnmia.org
 ||cnmill.com
 ||cnmineqs.net
+||cnmmsc.org
 ||cnmo.com
 ||cnmobile.net
 ||cnmods.net
@@ -15968,6 +15967,7 @@
 ||cnweblog.com
 ||cnwebshow.com
 ||cnweilo.com
+||cnweisou.com
 ||cnwen.net
 ||cnwenshi.net
 ||cnwest.com
@@ -19172,7 +19172,6 @@
 ||douban.com
 ||douban.fm
 ||doubanio.com
-||doubaojf.com
 ||doubean.com
 ||doubi.ren
 ||doubimeizhi.com
@@ -20622,7 +20621,6 @@
 ||elementfresh.com
 ||elenet.me
 ||elephant-base.com
-||elesos.com
 ||elex-tech.net
 ||elexcon.com
 ||elfartworld.com
@@ -20789,7 +20787,6 @@
 ||enrz.com
 ||enscg.com
 ||enshide.com
-||enshifdc.com
 ||enshijob.com
 ||enstylement.com
 ||ent120.com
@@ -21678,6 +21675,7 @@
 ||fastreportcn.com
 ||fastsoc.com
 ||fastsoso.cc
+||faststatics.com
 ||fat999.com
 ||fatedier.com
 ||fateskins.com
@@ -25828,7 +25826,6 @@
 ||haosix.com
 ||haosou.com
 ||haostay.com
-||haotb.com
 ||haote.com
 ||haotehui.com
 ||haotianhuyu.com
@@ -27462,6 +27459,7 @@
 ||hortorgames.com
 ||hosizoraworks.org
 ||hosjjk.com
+||hosory.com
 ||hospmall.com
 ||hostadm.net
 ||hostbbs.net
@@ -28190,7 +28188,6 @@
 ||huigezi.org
 ||huihaicenter.com
 ||huihaicn.com
-||huihedian.com
 ||huihua365.com
 ||huihuaren.com
 ||huihuarensheng.com
@@ -28891,7 +28888,6 @@
 ||i3v.cc
 ||i3youlun.com
 ||i3yuan.com
-||i3zh.com
 ||i4px.com
 ||i4t.com
 ||i51game.com
@@ -34831,7 +34827,6 @@
 ||kxinyk.com
 ||kxji.com
 ||kxjlt.org
-||kxnboat.com
 ||kxpay.net
 ||kxqo2ev.com
 ||kxscience.com
@@ -36092,7 +36087,6 @@
 ||linglong.space
 ||linglongart.com
 ||linglongtech.com
-||linglu666.com
 ||lingmovie.com
 ||lingnanpass.com
 ||lingocn.com
@@ -36165,6 +36159,7 @@
 ||linkh5.xyz
 ||linkhaitao.com
 ||linkheer.com
+||linkiebuy.com
 ||linkingme.com
 ||linkist.net
 ||linknewideas.com
@@ -36636,6 +36631,7 @@
 ||locatran.com
 ||locez.com
 ||lockfans.com
+||locklauncher.com
 ||lockscreenimg.com
 ||lockty.com
 ||locnavi.com
@@ -39200,6 +39196,7 @@
 ||mobayx.com
 ||mobcastlead.com
 ||mobcent.com
+||mobcloud.mobi
 ||mobdatas.com
 ||mobeehome.com
 ||mobeiwenhua.com
@@ -40372,7 +40369,6 @@
 ||ncpqh.com
 ||ncpssd.org
 ||ncq8.com
-||ncrica.org
 ||ncu.me
 ||ncvtinfo.com
 ||ncvtmi.com
@@ -41435,6 +41431,7 @@
 ||ofo.com
 ||ofo.so
 ||ofpay.com
+||ofpay365.com
 ||ofuns.com
 ||ofweek.com
 ||ofweek.net
@@ -42411,6 +42408,7 @@
 ||pcviva.com
 ||pcw365.com
 ||pcwenti.com
+||pcwgu.com
 ||pcwl.com
 ||pcyangguangban.com
 ||pd-sts.com
@@ -44336,6 +44334,7 @@
 ||qiumeiapp.com
 ||qiumibao.com
 ||qiumijia.com
+||qiuqiusd.com
 ||qiushi.com
 ||qiushibaike.com
 ||qiushibang.com
@@ -47625,6 +47624,7 @@
 ||shipfinder.com
 ||shipgce.com
 ||shiphr.com
+||shipinzhibojian.com
 ||ships66.com
 ||shipsc.org
 ||shiptux.com
@@ -49904,7 +49904,6 @@
 ||suofeiya.com
 ||suofeiyashop.com
 ||suoge.net
-||suorang.com
 ||suoxin5.com
 ||suoyiren.com
 ||supcname.com
@@ -50242,6 +50241,7 @@
 ||syoseo.com
 ||syoucn.com
 ||syouhui.com
+||syounggroup.com
 ||sypao.com
 ||sypole.com
 ||syr-sce.com
@@ -51358,6 +51358,8 @@
 ||thecodeway.com
 ||thedatasys.com
 ||theduapp.com
+||thefastfile.com
+||thefastimg.com
 ||thefatherofsalmon.com
 ||thefifthera.com
 ||thegbdc.com
@@ -54981,7 +54983,6 @@
 ||wbw.im
 ||wbxgl.com
 ||wbxs8.com
-||wbyweb.com
 ||wbzol.com
 ||wc44.com
 ||wcd.im
@@ -55170,6 +55171,7 @@
 ||wefans.com
 ||wefiler.com
 ||wefinger.club
+||wefitos.com
 ||wefunol.com
 ||wegame.com
 ||wegamex.com.hk
@@ -55229,6 +55231,7 @@
 ||weifengke.com
 ||weifengou.com
 ||weifengtang.com
+||weifenpay.com
 ||weifrom.com
 ||weigang.com
 ||weigongju.org
@@ -57736,7 +57739,6 @@
 ||xiamentianqi114.com
 ||xiami.com
 ||xiami.net
-||xiami77.com
 ||xiamiaopai.com
 ||xiamoyun.com
 ||xiamp4.com
@@ -59665,6 +59667,7 @@
 ||xy78.com
 ||xy980.net
 ||xyb100.com
+||xyb2b.com
 ||xybsyw.com
 ||xybygw.com
 ||xycaogen.com
@@ -63936,6 +63939,7 @@
 ||zhongyoo.com
 ||zhongyouex.com
 ||zhongyougc.com
+||zhongyoumedia.com
 ||zhongyunjy.com
 ||zhongzhao.com
 ||zhongzhide.com
