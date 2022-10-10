@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-10-09 02:37:42 UTC
+! Updated: 2022-10-10 02:38:06 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -4373,7 +4373,6 @@
 @@||52dgs.net
 @@||52digua.com
 @@||52dmtp.com
-@@||52dns.com
 @@||52doc.com
 @@||52dr.net
 @@||52dsy.com
@@ -11350,7 +11349,6 @@
 @@||bkxs.net
 @@||bkzzy.com
 @@||bl.com
-@@||bl9k.com
 @@||bla01.com
 @@||black-unique.com
 @@||blackbirdsport.com
@@ -11597,6 +11595,7 @@
 @@||bolejiang.com
 @@||bolelink.com
 @@||bolexiaozhao.com
+@@||boling04.com
 @@||boll.me
 @@||bolo.me
 @@||bolopp.com
@@ -13729,7 +13728,6 @@
 @@||chengezhao.com
 @@||chengfeilong.com
 @@||chenggongguiji.com
-@@||chenggua.com
 @@||chengguw.com
 @@||chengji1859.com
 @@||chengjieos.com
@@ -14732,7 +14730,6 @@
 @@||chuaiguo.com
 @@||chuairan.com
 @@||chuaizhe.com
-@@||chuanbofanyi.com
 @@||chuanbojia.com
 @@||chuanboyi.com
 @@||chuandaizc.com
@@ -36422,7 +36419,6 @@
 @@||liweiliang.com
 @@||liwenzhou.com
 @@||liwinon.com
-@@||liwngad.com
 @@||liwuhy.com
 @@||liwumaoapp.com
 @@||liwushuo.com
@@ -38005,6 +38001,7 @@
 @@||maxvinch.com
 @@||maxwealthfund.com
 @@||maxwi.com
+@@||maxws.com
 @@||maxxipoint.com
 @@||may.ltd
 @@||maya09.com
@@ -48828,7 +48825,6 @@
 @@||smoothgroup.cc
 @@||smovie168.com
 @@||smp-device-content.apple.com
-@@||smpeizi.com
 @@||smppw.com
 @@||sms9.net
 @@||smsbao.com
@@ -48932,7 +48928,6 @@
 @@||so147.com
 @@||so8848.com
 @@||soarwatch.com
-@@||soba8.com
 @@||sobaidupan.com
 @@||sobeian.com
 @@||sobereva.com
@@ -52519,7 +52514,6 @@
 @@||tsingtoo.com
 @@||tskscn.com
 @@||tskscn.org
-@@||tslapinshang.com
 @@||tsljzs.com
 @@||tslongtai.com
 @@||tslsmart.com
@@ -59361,6 +59355,7 @@
 @@||xtutoring.com
 @@||xtxcm.com
 @@||xtyxdq.com
+@@||xtzjcz.com
 @@||xu1s.com
 @@||xu7b.com
 @@||xuanad.com
@@ -59413,7 +59408,6 @@
 @@||xudoodoo.com
 @@||xuduan.vip
 @@||xue163.net
-@@||xue3dmax.com
 @@||xue63.com
 @@||xueanquan.com
 @@||xueba100.com
