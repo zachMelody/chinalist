@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-10-11 02:33:20 UTC
+! Updated: 2022-10-12 02:43:46 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -4257,7 +4257,6 @@
 ||520101.com
 ||520520520520520.com
 ||520520bo.com
-||5207758.com
 ||52091w.com
 ||520990.com
 ||520apk.com
@@ -8139,7 +8138,6 @@
 ||akswe.com
 ||aksxw.com
 ||aku.pub
-||akuaikan.com
 ||akuziti.com
 ||akyiyou.com
 ||akylq.com
@@ -9655,6 +9653,7 @@
 ||baidudaquan.com
 ||baidufe.com
 ||baidufree.com
+||baidui.vip
 ||baidulook.com
 ||baidunongmin.com
 ||baiduor.com
@@ -19042,7 +19041,6 @@
 ||donghaifunds.com
 ||donghao.org
 ||donghongqiao.com
-||donghuaxsp.com
 ||donghulvdao.com
 ||dongjinyu.com
 ||dongjun.cc
@@ -27800,7 +27798,6 @@
 ||huada120.com
 ||huadan.com
 ||huadehyd.com
-||huadiandanbao.com
 ||huadonghospital.com
 ||huadongmedia.com
 ||huadoo.com
@@ -28298,7 +28295,6 @@
 ||hunbei5.com
 ||hunbohui.info
 ||hunbys.com
-||huncct.com
 ||hunche.net
 ||hunchelaila.com
 ||hundredcent.com
@@ -31758,7 +31754,6 @@
 ||jiliguala.com
 ||jiliguara.xyz
 ||jilingwy.org
-||jilinoffcn.com
 ||jilinpujiyiyuan.com
 ||jilinwula.com
 ||jiliyun.com
@@ -32443,7 +32438,6 @@
 ||jntyhl.com
 ||jnw.cc
 ||jnwb.net
-||jnxmycnc.com
 ||jnyestar.com
 ||jnzcsyj.com
 ||jnzfwz.com
@@ -38859,7 +38853,6 @@
 ||mingrenteahouse.com
 ||mingrenxiang.com
 ||mingricctv.com
-||mingritouban.com
 ||mingshiedu.com
 ||mingshijt.com
 ||mingsoft.net
@@ -39829,7 +39822,6 @@
 ||my089.com
 ||my120.org
 ||my1616.net
-||my253537.com
 ||my285.com
 ||my2852.com
 ||my2space.com
@@ -45133,7 +45125,6 @@
 ||qzcklm.com
 ||qzclfc.com
 ||qzdigg.com
-||qzdwz.com
 ||qzdyyy.com
 ||qzfxyy.com
 ||qzhlkj.net
@@ -48893,6 +48884,7 @@
 ||snowballtech.com
 ||snowdream.tech
 ||snowyimall.com
+||snps.tech
 ||snrat.com
 ||snren.com
 ||snrtv.com
@@ -51392,7 +51384,6 @@
 ||thearenacapital.com
 ||thearyong.com
 ||theateliercouture.com
-||thebabaoffatherofson.com
 ||thebeastshop.com
 ||thebeautools.com
 ||thebeijinger.com
@@ -54365,7 +54356,6 @@
 ||vooec.com
 ||voole.com
 ||voole.net
-||voora.net
 ||voovlive.com
 ||voovmeeting.com
 ||vortexfun.com
@@ -59687,7 +59677,6 @@
 ||xxmh223.com
 ||xxmh225.com
 ||xxmh226.com
-||xxmh268.com
 ||xxmh330.com
 ||xxmh460.com
 ||xxmishu.com
