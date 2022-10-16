@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-10-15 02:43:54 UTC
+! Updated: 2022-10-16 02:49:51 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -331,7 +331,6 @@
 @@||0511w.com
 @@||0512118114.com
 @@||0512pearl.com
-@@||0512zp.com
 @@||0513.net
 @@||0513.org
 @@||0513011.com
@@ -2979,7 +2978,6 @@
 @@||365kandian.com
 @@||365key.com
 @@||365master.com
-@@||365mini.com
 @@||365pcbuy.com
 @@||365pk.com
 @@||365pp.com
@@ -3487,7 +3485,6 @@
 @@||45xie.com
 @@||462546.com
 @@||46412.com
-@@||4647.org
 @@||4658.net
 @@||466.com
 @@||4662000.com
@@ -4270,7 +4267,6 @@
 @@||520ldf.com
 @@||520link.com
 @@||520love520.com
-@@||520meirong.com
 @@||520mingmei.com
 @@||520mojing.com
 @@||520mwx.com
@@ -4625,7 +4621,6 @@
 @@||5567.me
 @@||557.net
 @@||5577.com
-@@||55779.xyz
 @@||5588.tv
 @@||5599.com
 @@||55dai.com
@@ -8637,7 +8632,6 @@
 @@||anrenmind.com
 @@||anroif.com
 @@||anruichina.com
-@@||ansbabe.com
 @@||ansgo.com
 @@||ansiding.com
 @@||ansky.com
@@ -8932,6 +8926,7 @@
 @@||appgenuine.com
 @@||appgz.com
 @@||appicplay.com
+@@||appinn.com
 @@||appjiagu.com
 @@||appjzy.com
 @@||appkaifa.com
@@ -10078,6 +10073,7 @@
 @@||batplay.com
 @@||batpool.com
 @@||battery-cert.com
+@@||battery-expo.com
 @@||batterydir.com
 @@||batterykey.com
 @@||battleofballs.com
@@ -10444,6 +10440,7 @@
 @@||bemhome.com
 @@||bemyceo.com
 @@||benbenq.com
+@@||benber-tech.com
 @@||benber.com
 @@||benbun.com
 @@||bendibao.com
@@ -11741,7 +11738,6 @@
 @@||bqgyy.com
 @@||bqiapp.com
 @@||bqimg.com
-@@||bql999.com
 @@||bqpoint.com
 @@||bqq8.com
 @@||bqrank.net
@@ -12619,6 +12615,7 @@
 @@||cazpw.com
 @@||cbca.net
 @@||cbcie.com
+@@||cbd263.com
 @@||cbdcn.com
 @@||cbdio.com
 @@||cbdjrsh.org
@@ -15287,7 +15284,6 @@
 @@||cmdrh.com
 @@||cmdschool.org
 @@||cmdw.vip
-@@||cmdy2020.com
 @@||cmechina.net
 @@||cmejob.com
 @@||cmenergyshipping.com
@@ -16693,6 +16689,7 @@
 @@||csgpc.org
 @@||csguan.com
 @@||csgwbn.com
+@@||csgwexpo.com
 @@||csharpkit.com
 @@||cshixi.com
 @@||cshnkj.com
@@ -18257,7 +18254,6 @@
 @@||dhrcbank.com
 @@||dhrest.com
 @@||dht5867.com
-@@||dhucf.com
 @@||dhwooden.com
 @@||dhygw20.com
 @@||dhygw2999.com
@@ -19465,6 +19461,7 @@
 @@||dudumeijia.com
 @@||duduyu.net
 @@||duelcn.com
+@@||dugen.com
 @@||dugoogle.com
 @@||duguying.net
 @@||duhao.net
@@ -26891,7 +26888,6 @@
 @@||hjdzn.com
 @@||hjenglish.com
 @@||hjgcd.com
-@@||hjgjmy.com
 @@||hjhanjy.com
 @@||hjhrcloud.com
 @@||hjido.com
@@ -27058,7 +27054,6 @@
 @@||hnbljy.com
 @@||hnbwsd.com
 @@||hnccpit.org
-@@||hnchuncheng.com
 @@||hncloud.com
 @@||hncourt.org
 @@||hncreate.com
@@ -27196,6 +27191,7 @@
 @@||hnyyss.com
 @@||hnzhaobiao.com
 @@||hnzhouyi.com
+@@||hnzhy.com
 @@||hnzjdc.com
 @@||hnzjfcw.com
 @@||hnzjgfw.com
@@ -28579,7 +28575,6 @@
 @@||hydarts.com
 @@||hydbest.com
 @@||hydcd.com
-@@||hyds360.com
 @@||hydz999.com
 @@||hydzfp.com
 @@||hyedu.com
@@ -29330,7 +29325,6 @@
 @@||iecnews.com
 @@||iecnu.com
 @@||iecool.com
-@@||iedon.com
 @@||ieduchina.com
 @@||ieduw.com
 @@||ieechina.com
@@ -32615,6 +32609,7 @@
 @@||jr123.com
 @@||jr18.com
 @@||jravity.com
+@@||jrdaimao.com
 @@||jrecchina.com
 @@||jrexam.com
 @@||jrgang.com
@@ -34811,7 +34806,6 @@
 @@||kylinos.com
 @@||kylinpet.com
 @@||kymjs.com
-@@||kynix.com
 @@||kyoceraconnect.com
 @@||kyppt.com
 @@||kyqcfj.com
@@ -37727,6 +37721,7 @@
 @@||mamioo.com
 @@||mamoe.net
 @@||mamsh.org
+@@||man6.org
 @@||managershare.com
 @@||manben.com
 @@||manboker.com
@@ -38795,7 +38790,6 @@
 @@||mindstore.io
 @@||minecraftxz.com
 @@||mineplugin.org
-@@||miner.tools
 @@||minerfun.com
 @@||minerhome.com
 @@||minesage.com
@@ -39782,6 +39776,7 @@
 @@||mxzx123.net
 @@||mxzzzs.com
 @@||my-3dcad.com
+@@||my-best-products.com
 @@||my-host.cc
 @@||my-summit.com
 @@||my.st.com
@@ -40343,7 +40338,6 @@
 @@||ndfsl.com
 @@||ndhys.com
 @@||ndmh.com
-@@||ndnslab.com
 @@||ndoo.net
 @@||ndscsoft.com
 @@||ndser.net
@@ -43009,6 +43003,7 @@
 @@||pocomagnetic.com
 @@||pocosite.com
 @@||pocsuite.org
+@@||podaaec.cyou
 @@||podinns.com
 @@||poem88.com
 @@||poemaster.com
@@ -46502,7 +46497,6 @@
 @@||scoee.com
 @@||scommander.com
 @@||scoregg.com
-@@||scp-wiki-cn.org
 @@||scpgroup.com
 @@||scplt.com
 @@||scqcp.com
@@ -47020,6 +47014,7 @@
 @@||sh-an.com
 @@||sh-anrong.com
 @@||sh-arpm.com
+@@||sh-autofair.com
 @@||sh-baolai.com
 @@||sh-deem.com
 @@||sh-dent.com
@@ -48057,7 +48052,6 @@
 @@||shuomingshu.net
 @@||shuomingshuku.com
 @@||shuosanguo.com
-@@||shuosc.org
 @@||shuoshuo9.com
 @@||shuoshuokong.com
 @@||shuoshuokong.org
@@ -49138,7 +49132,6 @@
 @@||soueast-motor.com
 @@||souebao.com
 @@||soufang.com
-@@||soufoo.com
 @@||soufuli.net
 @@||soufun.com
 @@||soufunimg.com
@@ -51173,6 +51166,7 @@
 @@||tencentclb.com
 @@||tencentcloud.com
 @@||tencentcloudapi.com
+@@||tencentcloudbase.com
 @@||tencentcs.com
 @@||tencentdba.com
 @@||tencentdevices.com
@@ -53071,7 +53065,6 @@
 @@||tzxingtang.com
 @@||tzxwzx.com
 @@||tzye123.com
-@@||tzyg.org
 @@||tzza.net
 @@||u-jingling.com
 @@||u-link.org
@@ -55191,7 +55184,6 @@
 @@||weibanan.com
 @@||weibangong.com
 @@||weibanzhushou.com
-@@||weibenchina.com
 @@||weibo.co
 @@||weibo.com
 @@||weibocdn.com
@@ -58300,6 +58292,7 @@
 @@||xifenggroup.com
 @@||xifengjiuzhaoshang.com
 @@||xifengwangzhan.com
+@@||xifu120.com
 @@||xifumi.com
 @@||xifuquan.com
 @@||xigeweb.com
@@ -61273,6 +61266,7 @@
 @@||yodao.net
 @@||yodo1.com
 @@||yodo1api.com
+@@||yodu.org
 @@||yoe365.com
 @@||yofc.com
 @@||yofcjs.com
@@ -61321,7 +61315,6 @@
 @@||yongchengren.com
 @@||yonghe1999.com
 @@||yongheng.online
-@@||yongheng0852.com
 @@||yonghongtech.com
 @@||yonghuigj.com
 @@||yonghuivip.com
@@ -62346,7 +62339,6 @@
 @@||yuntongxun.com
 @@||yuntouxiang.com
 @@||yuntu.io
-@@||yuntu.ru
 @@||yuntue.com
 @@||yunvm.com
 @@||yunvs.com
@@ -64133,6 +64125,7 @@
 @@||zhul.in
 @@||zhulang.com
 @@||zhulanli.com
+@@||zhuli999.com
 @@||zhulincat.com
 @@||zhuliudai.com
 @@||zhulixiaolie.com
@@ -65039,6 +65032,7 @@
 @@||zuanchuang9.com
 @@||zuanke8.com
 @@||zuankezu.com
+@@||zuanqianyi.com
 @@||zuanshi.com
 @@||zuanshitoupiao.com
 @@||zuantao.cc
