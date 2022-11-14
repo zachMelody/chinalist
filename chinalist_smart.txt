@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-11-13 02:04:23 UTC
+! Updated: 2022-11-14 02:02:31 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -3470,7 +3470,6 @@
 @@||4699a.com
 @@||46design.com
 @@||46mlsv.com
-@@||46z5j5.xyz
 @@||47365.com
 @@||4738.com
 @@||4743.uk
@@ -7023,7 +7022,6 @@
 @@||9g.com
 @@||9g8g.com
 @@||9gty.net
-@@||9hcom.com
 @@||9he.com
 @@||9host.org
 @@||9hou.com
@@ -9448,6 +9446,7 @@
 @@||azoyacdn.com
 @@||azoyagroup.com
 @@||aztsg.com
+@@||azuretouch.net
 @@||azurew.com
 @@||azureyun.com
 @@||azycjd.com
@@ -10063,6 +10062,7 @@
 @@||bazhuayu.cc
 @@||bazhuayu.com
 @@||bazi.cloud
+@@||bazi.xin
 @@||bazi5.com
 @@||bazp.net
 @@||bb-edu.com
@@ -10156,7 +10156,6 @@
 @@||bcelive.com
 @@||bcevod.com
 @@||bcitb.com
-@@||bcjy123.com
 @@||bclsw.com
 @@||bcmcdn.com
 @@||bcmeng.com
@@ -11120,7 +11119,6 @@
 @@||bjkhzx.com
 @@||bjkqj.com
 @@||bjkrtwl.com
-@@||bjksd120.com
 @@||bjl777.com
 @@||bjlanqiao.com
 @@||bjlcs-tech.com
@@ -12908,6 +12906,7 @@
 @@||cdjnrc.com
 @@||cdjsjx.com
 @@||cdjxjy.com
+@@||cdjzso.com
 @@||cdjzw.com
 @@||cdjzwykj.com
 @@||cdjzx120.com
@@ -13934,6 +13933,7 @@
 @@||china724.com
 @@||china777.org
 @@||china95.net
+@@||china95.xyz
 @@||china9s.com
 @@||china9y.com
 @@||chinaacc.com
@@ -19650,7 +19650,6 @@
 @@||dyfc.net
 @@||dyg-hec.com
 @@||dygang.com
-@@||dygang.net
 @@||dygangs.com
 @@||dygf.com
 @@||dygod.org
@@ -22429,6 +22428,7 @@
 @@||free789.com
 @@||freebsdchina.org
 @@||freebuf.com
+@@||freecat.work
 @@||freecplus.net
 @@||freedgo.com
 @@||freefrp.net
@@ -27102,7 +27102,6 @@
 @@||hnzhouyi.com
 @@||hnzhy.com
 @@||hnzjdc.com
-@@||hnzjfcw.com
 @@||hnzjgfw.com
 @@||hnzjip.com
 @@||hnzjzx.org
@@ -33112,7 +33111,6 @@
 @@||jxsrfdc.com
 @@||jxsxdp.com
 @@||jxtech.net
-@@||jxtobo.com
 @@||jxtvbbs.com
 @@||jxtvshop.com
 @@||jxtyzx.org
@@ -33786,7 +33784,6 @@
 @@||keyuhome.com
 @@||keyunidc.com
 @@||keyunsoft.com
-@@||keyyou.net
 @@||kezhaozhao.com
 @@||kezool.com
 @@||kf.ai
@@ -35418,7 +35415,6 @@
 @@||lempstack.com
 @@||lengcat.com
 @@||lenget.com
-@@||lenggirl.com
 @@||lengqing.org
 @@||lengxiaohua.com
 @@||lengziyuan.com
@@ -36052,7 +36048,6 @@
 @@||linovel.net
 @@||linovelib.com
 @@||linpx.com
-@@||linqu.tv
 @@||linquan.info
 @@||linquan.name
 @@||linqujob.com
@@ -37672,7 +37667,6 @@
 @@||manhua365.com
 @@||manhua456.com
 @@||manhuacheng.com
-@@||manhuadao.com
 @@||manhuadaohang.com
 @@||manhuadb.com
 @@||manhuafen.com
@@ -39087,6 +39081,7 @@
 @@||mobvoi.com
 @@||mocache.com
 @@||mocartoon.com
+@@||mochouu.com
 @@||mockingbot.com
 @@||mockplus.com
 @@||mockuai.com
@@ -46512,6 +46507,7 @@
 @@||sdicpower.com
 @@||sdicvc.com
 @@||sdifenzhou.com
+@@||sdiitu.com
 @@||sdiread.com
 @@||sditol.com
 @@||sdj-tech.com
@@ -51300,7 +51296,6 @@
 @@||thinksrc.com
 @@||thinvent.com
 @@||thishealthsummit.com
-@@||thisim.net
 @@||thisisdongdongqiang.com
 @@||thiztech.com
 @@||thjunshi.com
@@ -52455,7 +52450,6 @@
 @@||ttymq.com
 @@||ttyongche.com
 @@||ttyqm.com
-@@||ttys5.com
 @@||ttysq.com
 @@||ttyyuuoo.com
 @@||ttz.com
@@ -56051,7 +56045,6 @@
 @@||wisdri.com
 @@||wise-iot.com
 @@||wiseah.com
-@@||wiseboke.com
 @@||wisecotech.com
 @@||wisedoo.com
 @@||wisedsp.net
@@ -56348,6 +56341,7 @@
 @@||wolongyoule.com
 @@||wolongzywcdn.com
 @@||wolongzywcdn2.com
+@@||wolongzywcdn3.com
 @@||wolwo.ltd
 @@||wolwobiotech.com
 @@||womai.com
@@ -59876,7 +59870,6 @@
 @@||yantubao.com
 @@||yantuchina.com
 @@||yanue.net
-@@||yanunon.com
 @@||yanwenzi.com
 @@||yanxian.org
 @@||yanxintong.com
@@ -61343,6 +61336,7 @@
 @@||youkua.net
 @@||youkudou.com
 @@||youkudown.com
+@@||youkuphoto.com
 @@||youlanw.com
 @@||youle55.com
 @@||youleliwu.com
@@ -63786,7 +63780,6 @@
 @@||zhonglun.com
 @@||zhongman.com
 @@||zhongmian.com
-@@||zhongmingmao.me
 @@||zhongniu.com
 @@||zhongpaiwang.com
 @@||zhongqixin360.com
@@ -64454,7 +64447,6 @@
 @@||zkcx.com
 @@||zkdt.net
 @@||zkecopro.com
-@@||zkeli.com
 @@||zkeys.com
 @@||zkh.com
 @@||zkh360.com
