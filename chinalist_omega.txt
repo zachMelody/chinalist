@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-12-01 02:01:21 UTC
+! Updated: 2022-12-02 01:43:27 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -41624,6 +41624,7 @@
 ||oswdj.com
 ||oswhy.com
 ||osx.cx
+||osxapps.itunes.g.aaplimg.com
 ||osyunwei.com
 ||otcgd.com
 ||otcms.com
@@ -49798,6 +49799,7 @@
 ||sw996.com
 ||swaeab.com
 ||swakopuranium.com
+||swallow-apple-com.v.aaplimg.com
 ||swallow.apple.com
 ||swang8.com
 ||swap.wang
