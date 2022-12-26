@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2022-12-25 01:40:59 UTC
+! Updated: 2022-12-26 01:37:35 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -1132,7 +1132,6 @@
 @@||1314study.com
 @@||1314wallet.com
 @@||1314zf.com
-@@||1317w.com
 @@||131cc.com
 @@||131vip1.com
 @@||131w.tv
@@ -2368,7 +2367,6 @@
 @@||2df.me
 @@||2dfire.com
 @@||2dfire.info
-@@||2di.cc
 @@||2dph.com
 @@||2du.net
 @@||2dyou.com
@@ -5631,8 +5629,6 @@
 @@||788899.com
 @@||788v.com
 @@||78901.net
-@@||789294.cc
-@@||789314.cc
 @@||789gg.com
 @@||789hi.com
 @@||789msw.com
@@ -5841,6 +5837,7 @@
 @@||8090.com
 @@||8090.pk
 @@||8090120.com
+@@||809090.xyz
 @@||8090app.com
 @@||8090cdn.com
 @@||8090mt.com
@@ -7278,7 +7275,6 @@
 @@||acnow.net
 @@||aco-musical.com
 @@||aconf.org
-@@||aconline.com
 @@||acoolread.com
 @@||acpf-cn.org
 @@||acq42.com
@@ -7346,7 +7342,6 @@
 @@||adeaz.com
 @@||adebang.com
 @@||adebibi.com
-@@||adeline.cc
 @@||adesk.com
 @@||adexplain.com
 @@||adfeiwo.com
@@ -7535,7 +7530,6 @@
 @@||agrochemshow.com
 @@||agrodt.com
 @@||agrofairs.com
-@@||agrokingcn.com
 @@||agrosg.com
 @@||agrowingchina.com
 @@||agucn.com
@@ -8685,6 +8679,7 @@
 @@||aoofu.com
 @@||aoogee.com
 @@||aoomoo.com
+@@||aopayun.com
 @@||aoratec.com
 @@||aoscdn.com
 @@||aosens.com
@@ -9112,6 +9107,7 @@
 @@||aspxhtml.com
 @@||asrmicro.com
 @@||assbbs.com
+@@||asset.msi.com
 @@||assets-global.viveport.com
 @@||assets.analog.com
 @@||assets.uxengine.net
@@ -9429,7 +9425,6 @@
 @@||b5m.com
 @@||b612.me
 @@||b612kaji.com
-@@||b780.com
 @@||b7l.cc
 @@||b8yx.com
 @@||ba-li.com
@@ -12673,7 +12668,6 @@
 @@||ccpithebei.com
 @@||ccpithn.org
 @@||ccpithrb.org
-@@||ccpithz.org
 @@||ccpitjinan.org
 @@||ccpitjs.org
 @@||ccpitlight.org
@@ -12697,7 +12691,6 @@
 @@||ccrgt.com
 @@||ccrjw.com
 @@||ccshao.com
-@@||ccshell.com
 @@||ccsph.com
 @@||ccssmm.com
 @@||cct08.com
@@ -15789,6 +15782,7 @@
 @@||cnzyao.com
 @@||cnzz.com
 @@||cnzz.net
+@@||cnzz07.com
 @@||cnzznn.com
 @@||cnzznz.com
 @@||co-effort.com
@@ -19551,7 +19545,6 @@
 @@||dyjqd.com
 @@||dykj.site
 @@||dylc.com
-@@||dylxhm.com
 @@||dyly.com
 @@||dyonr.com
 @@||dyqc.com
@@ -21432,7 +21425,6 @@
 @@||fc0531.com
 @@||fc0633.com
 @@||fc12319.com
-@@||fc2.red
 @@||fc571.com
 @@||fc811.com
 @@||fcachinagsdp.com
@@ -22306,7 +22298,6 @@
 @@||free-img.com
 @@||free.mk
 @@||free789.com
-@@||freebsdchina.org
 @@||freebuf.com
 @@||freecat.work
 @@||freecplus.net
@@ -22348,6 +22339,7 @@
 @@||fright-tattoo.com
 @@||fringe-zero.com
 @@||friok.com
+@@||frisoweb.com
 @@||frjie.com
 @@||frlh168.com
 @@||frombyte.com
@@ -22382,6 +22374,7 @@
 @@||fsfund.com
 @@||fsgejian.com
 @@||fsggb.com
+@@||fsghgt.com
 @@||fsgplus.com
 @@||fsgzhg.com
 @@||fshd.com
@@ -23033,6 +23026,7 @@
 @@||gatewang.com
 @@||gather-dns.com
 @@||gathernames.com
+@@||gatobuy.com
 @@||gaussianoptics.com
 @@||gavindesign.com
 @@||gaxrmyy.com
@@ -32128,7 +32122,6 @@
 @@||jmd-china.com
 @@||jmdedu.com
 @@||jmeii.com
-@@||jmfans.com
 @@||jmgle.com
 @@||jmgo.com
 @@||jmhapp.com
@@ -38004,7 +37997,6 @@
 @@||meitianhui.com
 @@||meitibijia.com
 @@||meitu.com
-@@||meitu.store
 @@||meituan.com
 @@||meituan.net
 @@||meitubase.com
@@ -42515,7 +42507,6 @@
 @@||piqs.com
 @@||piscesys.com
 @@||pisx.com
-@@||piworker.com
 @@||pixelauth.com
 @@||pixhey.com
 @@||pixivacg.com
@@ -42553,7 +42544,6 @@
 @@||pkbkok.com
 @@||pkdyplayer.com
 @@||pkfj.xyz
-@@||pkgklk.com
 @@||pki-goog.l.google.com
 @@||pkm360.com
 @@||pkmmo.com
@@ -43113,7 +43103,6 @@
 @@||puyurumen.com
 @@||puzeyf.com
 @@||pv001.net
-@@||pv265.com
 @@||pv4b.com
 @@||pvc123.com
 @@||pvhgws7.com
@@ -43238,7 +43227,6 @@
 @@||qbxz.com
 @@||qc-dds.net
 @@||qc-hr.com
-@@||qc-meta.com
 @@||qc178.com
 @@||qc188.com
 @@||qc6.com
@@ -44548,6 +44536,7 @@
 @@||qumingdashi.com
 @@||qumingxing.com
 @@||qumitech.com
+@@||qun-net.com
 @@||qun.hk
 @@||qun100.com
 @@||qun7.com
@@ -45171,6 +45160,7 @@
 @@||respondaudio.com
 @@||respusher.com
 @@||resuly.me
+@@||retailo2o.com
 @@||retalltech.com
 @@||retey.net
 @@||retiehe.com
@@ -46814,7 +46804,6 @@
 @@||shanghaitower.com
 @@||shanghaiwater.com
 @@||shanghaixs.com
-@@||shanghaizaojia.com
 @@||shanghaizhenji.com
 @@||shanghuiyi.com
 @@||shangji998.com
@@ -49258,6 +49247,7 @@
 @@||stoneu.com
 @@||stonexp.com
 @@||stor-age.com
+@@||storage-asset.msi.com
 @@||storagesemicon.com
 @@||store.apple.com
 @@||store.apple.com.edgekey.net
@@ -57063,7 +57053,6 @@
 @@||xchjw.org
 @@||xchlxx.com
 @@||xchmai.com
-@@||xchrc.com
 @@||xchuandai.com
 @@||xchuxing.com
 @@||xciic.com
@@ -58741,7 +58730,6 @@
 @@||xqbxz.com
 @@||xqckg.com
 @@||xqfunds.com
-@@||xqggz.com
 @@||xqipu.com
 @@||xqiushu.com
 @@||xqjmzc.com
@@ -58916,7 +58904,6 @@
 @@||xuanyouwang.com
 @@||xuanyuanhuangdi.org
 @@||xuanyusong.com
-@@||xuanzhoubian.com
 @@||xuanzhuanmumatuwen.com
 @@||xubei.com
 @@||xuchuang.com
@@ -59388,7 +59375,6 @@
 @@||xzper.com
 @@||xzpoll.com
 @@||xzr.kim
-@@||xzrj.cc
 @@||xzsec.com
 @@||xzsnw.com
 @@||xzstatic.com
@@ -62996,7 +62982,6 @@
 @@||zhaosw.com
 @@||zhaouc.com
 @@||zhaouc.net
-@@||zhaowenxishi.com
 @@||zhaowofanyi.com
 @@||zhaowuding.net
 @@||zhaoxi.net
@@ -63789,7 +63774,6 @@
 @@||ziboga.com
 @@||zicaitou.com
 @@||zichabaogao.com
-@@||zichanzhihuan.com
 @@||zichenit.com
 @@||zidan.chat
 @@||zidanduanxin.com
@@ -64791,7 +64775,6 @@
 @@||zxip.com
 @@||zxjg66.com
 @@||zxjsq.net
-@@||zxlearning.com
 @@||zxlib.com
 @@||zxlmx.com
 @@||zxmall.com
