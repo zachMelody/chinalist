@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2023-03-05 01:58:47 UTC
+! Updated: 2023-03-06 01:48:55 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-100.com
@@ -2502,6 +2502,7 @@
 ||31mada.com
 ||31martech.com
 ||31meijia.com
+||31ml.com
 ||31mold.com
 ||31myhome.com
 ||31pump.com
@@ -5522,6 +5523,7 @@
 ||7724.com
 ||7724yx.com
 ||7725.com
+||77275.cc
 ||7729.com
 ||77313.com
 ||77348k.com
@@ -6585,7 +6587,6 @@
 ||94mxd.com
 ||94nw.com
 ||94php.com
-||94pm.com
 ||94q.com
 ||94qy.com
 ||94rp.com
@@ -8358,6 +8359,7 @@
 ||ancun.com
 ||andaike.com
 ||andan.me
+||andcaifu.com
 ||andeyi1688.com
 ||andhj.com
 ||andisoon.com
@@ -8560,7 +8562,6 @@
 ||anyv.net
 ||anyview.net
 ||anyway.fm
-||anywlan.com
 ||anywood.com
 ||anyxz.com
 ||anzerclub.com
@@ -13142,6 +13143,7 @@
 ||cgvoo.com
 ||cgwang.com
 ||cgwell.com
+||cgwenjian.com
 ||cgwic.com
 ||cgws.com
 ||cgxc.cc
@@ -13925,6 +13927,7 @@
 ||chinagiftsfair.com
 ||chinagoldcoin.net
 ||chinagoldgroup.com
+||chinagov.pw
 ||chinagp.net
 ||chinagps.cc
 ||chinagrid.net
@@ -16089,7 +16092,6 @@
 ||cppwh.com
 ||cps1688.com
 ||cps800.com
-||cps88.cc
 ||cpsbeijing.org
 ||cpsenglish.com
 ||cptae.com
@@ -20321,6 +20323,7 @@
 ||ename.com
 ||ename.net
 ||enappstore.com
+||enaw-almg3.com
 ||enbowang.com
 ||enbrands.com
 ||enec.net
@@ -20694,7 +20697,6 @@
 ||everstar.xyz
 ||everstray.com
 ||everturst.com
-||evervc.com
 ||everybodygame.com
 ||everychina.com
 ||everydo.com
@@ -22215,6 +22217,7 @@
 ||fsecity.com
 ||fsesa.com
 ||fsfund.com
+||fsgangtong.com
 ||fsgejian.com
 ||fsggb.com
 ||fsghgt.com
@@ -22758,7 +22761,6 @@
 ||gao7gao8.com
 ||gaobata.com
 ||gaobei.com
-||gaobiao.net
 ||gaocangyun.com
 ||gaocegege.com
 ||gaochengnews.net
@@ -24913,6 +24915,7 @@
 ||haiboyi.com
 ||haicent.com
 ||haichangchina.com
+||haichuanmei.com
 ||haichufang.com
 ||haici.com
 ||haicj.com
@@ -28202,6 +28205,7 @@
 ||hyznjs.com
 ||hyzqxsb.com
 ||hz-etest.com
+||hz-expo.com
 ||hz-gn.com
 ||hz-hospital.com
 ||hz-winone.com
@@ -29511,6 +29515,7 @@
 ||incoto.com
 ||incsg.com
 ||ind-app-comp.com
+||ind-map.com
 ||ind9ed.com
 ||indexedu.com
 ||indexedu.net
@@ -32723,6 +32728,7 @@
 ||jxxhdn.com
 ||jxxhsd.com
 ||jxxyqm.com
+||jxycdx.com
 ||jxyrzdh.com
 ||jxysyz.com
 ||jxyworld.com
@@ -34955,7 +34961,6 @@
 ||lejingxuan.com
 ||lejj.com
 ||leju.com
-||lejucaifu.com
 ||lejuliang.com
 ||lejunwl.com
 ||lekannews.com
@@ -35512,7 +35517,6 @@
 ||lingkou.com
 ||lingla.com
 ||linglingkaimen.com
-||linglong.space
 ||linglongart.com
 ||linglongtech.com
 ||lingmovie.com
@@ -39135,7 +39139,6 @@
 ||mwjx.com
 ||mwrf.net
 ||mwrfchina.org
-||mwrftech.com
 ||mwryx.com
 ||mwyzhcdn.com
 ||mx-industry.com
@@ -41557,13 +41560,9 @@
 ||papa21.com
 ||papa91.com
 ||papaao.com
-||papaao1.com
-||papaao2.com
 ||papaao4.com
-||papaao5.com
 ||papaao6.com
 ||papaao7.com
-||papaao8.com
 ||papajohnshanghai.com
 ||papapoi.com
 ||papaquan.com
@@ -43351,6 +43350,7 @@
 ||qifake.com
 ||qifandianlansh.com
 ||qifangw.com
+||qifawang.com
 ||qifeiye.com
 ||qifub.com
 ||qifuedu.com
@@ -45009,7 +45009,6 @@
 ||rkvir.com
 ||rl-consult.com
 ||rlair.net
-||rlbl888.com
 ||rlkj.com
 ||rlkj.net
 ||rlnk.net
@@ -45973,6 +45972,7 @@
 ||sdklh.com
 ||sdknext.com
 ||sdksrv.com
+||sdlgjycm.com
 ||sdlgzy.com
 ||sdlinqu.com
 ||sdljwomen.com
@@ -52201,6 +52201,7 @@
 ||txffp.com
 ||txfund.com
 ||txga.com
+||txh00.com
 ||txianning.com
 ||txip8.com
 ||txitech.com
@@ -52706,6 +52707,7 @@
 ||unicon-hibar.com
 ||unicornacg.com
 ||unifull.com
+||unifycarbon.com
 ||unigress.com
 ||uninf.com
 ||union-4.com
@@ -53717,6 +53719,7 @@
 ||vvipcdn.com
 ||vvjob.com
 ||vvkaoyan.com
+||vvkw.com
 ||vvl.cc
 ||vvmeiju.com
 ||vvo2o.com
@@ -57633,6 +57636,7 @@
 ||xingtac.com
 ||xingtai123.com
 ||xingtangzp.com
+||xingtongbo.com
 ||xingtouzi.com
 ||xingtu.com
 ||xinguad.com
@@ -58593,7 +58597,6 @@
 ||xueyanshe.com
 ||xueyiyun.com
 ||xueyou.org
-||xueyouyoo.com
 ||xueyuanjun.com
 ||xuezhouyi.com
 ||xuezishi.net
@@ -60063,6 +60066,7 @@
 ||yiwaiart.com
 ||yiwangdujin.com
 ||yiwanggo.net
+||yiwangtui.com
 ||yiwanzhushou.com
 ||yiwealth.com
 ||yiweb.com
@@ -64087,7 +64091,6 @@
 ||ztzhsq.com
 ||ztzy.com
 ||zuan-cheng.com
-||zuanbi8.com
 ||zuanchuang.org
 ||zuanchuang9.com
 ||zuanke8.com
