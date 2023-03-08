@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2023-03-07 01:53:29 UTC
+! Updated: 2023-03-08 01:50:53 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-100.com
@@ -100,7 +100,6 @@
 @@||01teacher.com
 @@||01tingshu.com
 @@||01w.com
-@@||01water.com
 @@||01wb.com
 @@||01xs.com
 @@||01yo.com
@@ -4819,7 +4818,6 @@
 @@||5iape.com
 @@||5ibc.net
 @@||5ibear.com
-@@||5icaipu.com
 @@||5icbs.com
 @@||5ichecker.com
 @@||5ichong.com
@@ -5112,7 +5110,6 @@
 @@||66460.com
 @@||6655.la
 @@||6660333.com
-@@||6665890.com
 @@||6666519.net
 @@||666666.so
 @@||66667aaa.com
@@ -5206,7 +5203,6 @@
 @@||678py.com
 @@||67joy.com
 @@||67lm.com
-@@||67mb.com
 @@||67mo.com
 @@||67wanwan.com
 @@||67yes.com
@@ -6705,7 +6701,6 @@
 @@||96yx.com
 @@||96zxue.com
 @@||97-7.com
-@@||970655.com
 @@||9718.com
 @@||9718game.com
 @@||9724.com
@@ -9682,6 +9677,7 @@
 @@||bangdao-tech.com
 @@||banggo.com
 @@||banghaiwai.com
+@@||bangjixia.com
 @@||bangkao.com
 @@||bangkebao.com
 @@||banglianai.com
@@ -9912,7 +9908,6 @@
 @@||baye.tech
 @@||bayescom.com
 @@||bayimob.com
-@@||bayinfu.com
 @@||bayinh.com
 @@||bayinmao.com
 @@||bayuegua.com
@@ -9934,7 +9929,6 @@
 @@||bb-edu.com
 @@||bb-game.com
 @@||bb-pco.com
-@@||bb-seo.com
 @@||bb06.com
 @@||bb179.com
 @@||bb8gk.com
@@ -10176,7 +10170,6 @@
 @@||beifabook.com
 @@||beifang.net
 @@||beifangfoshifen.com
-@@||beifangyanxue.net
 @@||beifeng.com
 @@||beifuni.com
 @@||beiguorc.com
@@ -10418,7 +10411,6 @@
 @@||bgteach.com
 @@||bguai.com
 @@||bgwl.net
-@@||bgxlre.com
 @@||bgyfhyx.com
 @@||bh.sb
 @@||bh1t.com
@@ -11888,7 +11880,6 @@
 @@||byteacctimg.com
 @@||byteactivity.com
 @@||byteadverts.com
-@@||bytebye.com
 @@||bytecdn.com
 @@||bytecdntp.com
 @@||byted-static.com
@@ -12511,7 +12502,6 @@
 @@||ccieh3c.com
 @@||ccieshow.com
 @@||ccigchina.com
-@@||ccigmall.com
 @@||ccihr.com
 @@||ccimz.com
 @@||ccipp.org
@@ -13168,6 +13158,7 @@
 @@||cha-tm.com
 @@||cha001.com
 @@||cha127.com
+@@||cha138.com
 @@||chabeichong.com
 @@||chachaba.com
 @@||chachaqu.com
@@ -16413,6 +16404,7 @@
 @@||cshixi.com
 @@||cshnkj.com
 @@||cshope.net
+@@||cshuandu.com
 @@||cshufanyi.com
 @@||cshxdc.com
 @@||cshyqx.com
@@ -17381,7 +17373,6 @@
 @@||dawnlab.me
 @@||dawnled.net
 @@||dawuhanapp.com
-@@||dawuxia.net
 @@||dawx.com
 @@||dawx.net
 @@||daxi.com
@@ -21862,6 +21853,7 @@
 @@||flatshare365.com
 @@||flawcache.com
 @@||flduo.com
+@@||fle078.com
 @@||flexifont.com
 @@||fleyun.com
 @@||flgwx.com
@@ -22748,6 +22740,7 @@
 @@||gansuairport.com
 @@||gansunet.com
 @@||gansuyunshi.com
+@@||gantanhao.vip
 @@||ganxi666.com
 @@||ganxianw.com
 @@||ganxianzhi.win
@@ -23249,7 +23242,6 @@
 @@||gfxtr1.com
 @@||gfxy.com
 @@||gfzj.us
-@@||gg-ev.com
 @@||gg-lb.com
 @@||gg-led.com
 @@||gg1994.com
@@ -24460,7 +24452,6 @@
 @@||gw.craft.moe
 @@||gw2sc.com
 @@||gw66.vip
-@@||gw8888.com
 @@||gwamcc.com
 @@||gwauto.com
 @@||gwclouds.net
@@ -24655,7 +24646,6 @@
 @@||gzhkl.com
 @@||gzhphb.com
 @@||gzhshoulu.wang
-@@||gzhtg.com
 @@||gzhtinfo.com
 @@||gzhuake.cc
 @@||gzhxpw.com
@@ -25388,6 +25378,7 @@
 @@||haoweishow.com
 @@||haowen100.com
 @@||haoword.com
+@@||haowpc.com
 @@||haowu.com
 @@||haowu.info
 @@||haowu.link
@@ -26643,7 +26634,6 @@
 @@||hnetn.com
 @@||hnfa.org
 @@||hnfapiao.com
-@@||hnfaren.com
 @@||hnfdx.com
 @@||hnfjz.com
 @@||hnfyqmj.com
@@ -27659,7 +27649,6 @@
 @@||hui10.com
 @@||hui10.net
 @@||hui100.com
-@@||hui20.com
 @@||hui43.com
 @@||hui712.com
 @@||hui800.com
@@ -28313,7 +28302,6 @@
 @@||hzwsjyjt.com
 @@||hzwtech.com
 @@||hzwxq.com
-@@||hzwyh.com
 @@||hzxhymc.com
 @@||hzxiaobao.com
 @@||hzxiyuege.com
@@ -28813,7 +28801,6 @@
 @@||idianfa.com
 @@||idianshijia.com
 @@||idigi.net
-@@||idler-et.com
 @@||idmchina.net
 @@||idmzj.com
 @@||idn100.com
@@ -28876,7 +28863,6 @@
 @@||ieasy123.com
 @@||ieasytech.com
 @@||ieayoio.com
-@@||iebyte.com
 @@||iecdn.com
 @@||iecidc.com
 @@||iecie.com
@@ -32504,7 +32490,6 @@
 @@||junka.com
 @@||junlee.net
 @@||junlongtech.com
-@@||junmidao.com
 @@||junmin.org
 @@||junmoseo.com
 @@||junnanhao.com
@@ -32562,6 +32547,7 @@
 @@||jushuo.com
 @@||jussevent.com
 @@||jusstickets.com
+@@||jussyun.com
 @@||just4coding.com
 @@||just4fun.site
 @@||just998.com
@@ -33564,7 +33550,6 @@
 @@||kk3g.net
 @@||kkapp.com
 @@||kkbuyu8.com
-@@||kkcache.com
 @@||kkcache.net
 @@||kkcaicai.com
 @@||kkcapture.com
@@ -36003,7 +35988,6 @@
 @@||lmwlhh.com
 @@||lmwljz.com
 @@||lmxxxz.com
-@@||lmyd5.com
 @@||lnamphp.com
 @@||lncldapi.com
 @@||lncnw.com
@@ -38150,7 +38134,6 @@
 @@||mikublog.com
 @@||mikucdn.com
 @@||mikuclub.fun
-@@||milan-bride.com
 @@||milanvip.com
 @@||mileage.vip
 @@||milejia.com
@@ -38935,9 +38918,7 @@
 @@||mrqf.com
 @@||mrsta.com
 @@||mrsu.me
-@@||mrtbc.com
 @@||mrw.so
-@@||mrwfbk.bar
 @@||mrwish.net
 @@||mrzhenggang.com
 @@||mrzl.com
@@ -39978,7 +39959,6 @@
 @@||nfrencai.com
 @@||nfs-china.com
 @@||nfschina.com
-@@||nfwin.com
 @@||nfyk.com
 @@||nfzhouyi.com
 @@||ng-alain.com
@@ -41139,7 +41119,6 @@
 @@||orientgolf.com
 @@||orientpc.com
 @@||orienttumor.com
-@@||orientwalt.com
 @@||originalkindergarten.com
 @@||origincn.com
 @@||originlee.com
@@ -41982,7 +41961,6 @@
 @@||phpweb.net
 @@||phpweblog.net
 @@||phpxs.com
-@@||phpyuan.com
 @@||phpyun.com
 @@||phys.net
 @@||physicalchina.vip
@@ -42842,6 +42820,7 @@
 @@||pythondoc.com
 @@||pythoner.com
 @@||pythonheidong.com
+@@||pythonke.com
 @@||pythonpub.com
 @@||pythontab.com
 @@||pythontip.com
@@ -43427,6 +43406,7 @@
 @@||qimingvc.com
 @@||qimingventures.com
 @@||qimingzi.net
+@@||qiminzi.com
 @@||qimo.biz
 @@||qimodesign.com
 @@||qimser.com
@@ -43491,7 +43471,6 @@
 @@||qingliangkeji.com
 @@||qinglin.net
 @@||qingliulan.com
-@@||qingliuzyw.com
 @@||qinglm.com
 @@||qinglue.net
 @@||qingman5.com
@@ -44090,7 +44069,6 @@
 @@||quanmin110.com
 @@||quanminbagua.com
 @@||quanminbb.com
-@@||quanmingjiexi.com
 @@||quanminyanxuan.com
 @@||quanqiuwa.com
 @@||quanquanapp.net
@@ -46440,7 +46418,6 @@
 @@||shangdandan.com
 @@||shangdaotong.com
 @@||shangdiguo.com
-@@||shangdingxin.com
 @@||shangdixinxi.com
 @@||shangdu.com
 @@||shangdu.info
@@ -47820,7 +47797,6 @@
 @@||sjhl.cc
 @@||sjhy.net
 @@||sjjob88.com
-@@||sjkhsl.fun
 @@||sjlqgg.com
 @@||sjm.life
 @@||sjmdh.com
@@ -48258,7 +48234,6 @@
 @@||softgostop.com
 @@||softhead-citavi.com
 @@||softhome.cc
-@@||softparkinfo.com
 @@||softtest.com
 @@||softwarechn.com
 @@||softwarecn.com
@@ -52460,6 +52435,7 @@
 @@||uclmjs.com
 @@||ucloudgda.com
 @@||ucloudnaming.info
+@@||uclouds3.com
 @@||ucly.net
 @@||ucnaming.com
 @@||ucnano.com
@@ -53848,7 +53824,6 @@
 @@||waimaozhuge.com
 @@||waimungfire.com
 @@||waiqin365.com
-@@||waisir.com
 @@||waitingfy.com
 @@||waitsun.com
 @@||wajueji.com
@@ -53971,7 +53946,6 @@
 @@||wanghaida.com
 @@||wanghualang.com
 @@||wanghz.com
-@@||wangi.cc
 @@||wangid.com
 @@||wangjianshuo.com
 @@||wangjinle.com
@@ -54571,6 +54545,7 @@
 @@||weisiliang.com
 @@||weismarts.com
 @@||weistang.com
+@@||weisurvey.com
 @@||weisuyun.com
 @@||weitehui.com
 @@||weitiaozhuan.com
@@ -56733,7 +56708,6 @@
 @@||xdfkt.com
 @@||xdfpr.com
 @@||xdgalaxy.com
-@@||xdhbs.com
 @@||xdhcn.com
 @@||xdiarys.com
 @@||xdj-sz.com
@@ -57998,7 +57972,6 @@
 @@||xjabc.net
 @@||xjbdf.net
 @@||xjbhyx.com
-@@||xjbmaker.com
 @@||xjbuluo.com
 @@||xjc18.com
 @@||xjcc.net
@@ -58865,6 +58838,7 @@
 @@||xymcp3.com
 @@||xymens.com
 @@||xymfqb.com
+@@||xymlcs.com
 @@||xymvip.com
 @@||xynbnb.com
 @@||xyniubi.com
@@ -58874,7 +58848,6 @@
 @@||xyppzx.com
 @@||xyqb.com
 @@||xyqczy.com
-@@||xyqka.com
 @@||xyrbszb.com
 @@||xyrtv.com
 @@||xysb.com
@@ -58975,7 +58948,6 @@
 @@||y007.com
 @@||y1995.com
 @@||y2002.com
-@@||y261.com
 @@||y500.me
 @@||y5663.com
 @@||y6162.com
@@ -59326,7 +59298,6 @@
 @@||ycyui.com
 @@||yczihua.com
 @@||yczxyy.com
-@@||ydaobo.com
 @@||ydbimg.com
 @@||ydc360.com
 @@||yddff556.xyz
@@ -61234,6 +61205,7 @@
 @@||yumimobi.com
 @@||yuming.com
 @@||yumingguwen.com
+@@||yumingjoy.com
 @@||yumixitong.com
 @@||yumstone.com
 @@||yun-gu.com
@@ -62574,7 +62546,6 @@
 @@||zhefengle.com
 @@||zhejiangmuseum.com
 @@||zhejiangqinghe.com
-@@||zhejie.com
 @@||zhejing.tech
 @@||zhekangzc.com
 @@||zhekouo.com
@@ -63295,7 +63266,6 @@
 @@||zhw2101024.com
 @@||zhwangart.com
 @@||zhwdw.com
-@@||zhwenku.com
 @@||zhwenxue.com
 @@||zhx-mall.com
 @@||zhxfei.com
@@ -64309,7 +64279,6 @@
 @@||zxlib.com
 @@||zxlmx.com
 @@||zxmall.com
-@@||zxmee.com
 @@||zxmn2018.com
 @@||zxmseed.com
 @@||zxmxd.com
