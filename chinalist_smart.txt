@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2023-07-06 01:58:09 UTC
+! Updated: 2023-07-07 01:55:37 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-6.com
@@ -7333,6 +7333,7 @@
 @@||adxvip.com
 @@||adxwork.com
 @@||adyounger.com
+@@||adysimg.com
 @@||adyun.com
 @@||adzar-energy.com
 @@||adzh.com
@@ -8831,7 +8832,6 @@
 @@||arkread.com
 @@||arkteam.net
 @@||arliki.com
-@@||arm001.com
 @@||arm9.net
 @@||arm9home.net
 @@||armbbs.net
@@ -17828,7 +17828,6 @@
 @@||dgwtrl.com
 @@||dgxbjg.com
 @@||dgxinde.net
-@@||dgxinyuds.com
 @@||dgxue.com
 @@||dgyejia.com
 @@||dgygpx.com
@@ -26292,7 +26291,6 @@
 @@||hijoys.com
 @@||hikailink.com
 @@||hikcreate.com
-@@||hikedj.com
 @@||hiklife.com
 @@||hikoon.com
 @@||hikops.com
@@ -48622,6 +48620,7 @@
 @@||ssdata.com
 @@||ssdax.com
 @@||ssdfans.com
+@@||ssdzg.com
 @@||sseinfo.com
 @@||ssf.cc
 @@||ssfiction.com
@@ -57113,6 +57112,7 @@
 @@||xiaohulu.com
 @@||xiaohuochai.cc
 @@||xiaohuochai.site
+@@||xiaohus.com
 @@||xiaohuwl.com
 @@||xiaoice.com
 @@||xiaoj.com
@@ -59033,7 +59033,6 @@
 @@||yanglong.pro
 @@||yangluojob.com
 @@||yangmao.info
-@@||yangmaodang.org
 @@||yangmaohao.net
 @@||yangner.com
 @@||yangqianguan.com
