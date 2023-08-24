@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2023-08-23 01:11:37 UTC
+! Updated: 2023-08-24 01:11:31 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-6.com
@@ -4729,6 +4729,7 @@
 @@||5fen.com
 @@||5fun.com
 @@||5fwan.com
+@@||5g5gyy.com
 @@||5gcg.com
 @@||5glianc.com
 @@||5goto.com
@@ -6156,7 +6157,6 @@
 @@||91-box.com
 @@||91.com
 @@||910app.com
-@@||910fd.com
 @@||910play.com
 @@||91160.com
 @@||9118fu.com
@@ -7087,7 +7087,6 @@
 @@||accu.cc
 @@||accurate-china.com
 @@||accyy.com
-@@||acde.net
 @@||ace-pow.com
 @@||ace-rubber.com
 @@||acejoy.com
@@ -8065,6 +8064,7 @@
 @@||aliyunddos1005.com
 @@||aliyunddos1006.com
 @@||aliyunddos1007.com
+@@||aliyunddos1008.com
 @@||aliyunddos1009.com
 @@||aliyunddos1010.com
 @@||aliyunddos1011.com
@@ -8741,7 +8741,6 @@
 @@||apriltq.com
 @@||aprovadimamma.net
 @@||apsgo.com
-@@||apt.so
 @@||aptchina.com
 @@||aptchip.com
 @@||aptenon.com
@@ -13114,6 +13113,7 @@
 @@||chaimage.com
 @@||chain-store.net
 @@||chaincar.com
+@@||chaincatcher.com
 @@||chainknow.com
 @@||chainnode.com
 @@||chainsdir.com
@@ -19020,7 +19020,6 @@
 @@||dtime.com
 @@||dtmao.cc
 @@||dtmuban.com
-@@||dtqiufa.com
 @@||dtrcb.com
 @@||dts007.com
 @@||dtstack.com
@@ -20504,6 +20503,7 @@
 @@||eslosity.com
 @@||esmartwave.com
 @@||esmod-beijing.com
+@@||esmplus.com
 @@||esnai.com
 @@||esnai.net
 @@||esoboy.com
@@ -22081,6 +22081,7 @@
 @@||foxwq.com
 @@||foxzld.com
 @@||foyuan.net
+@@||fpdclub.net
 @@||fpdisplay.com
 @@||fpga-china.com
 @@||fpgabbs.com
@@ -23828,6 +23829,7 @@
 @@||gougoujp.com
 @@||gougoumh.com
 @@||gouhai.com
+@@||gouhao.com
 @@||gouhaowang.com
 @@||gouhuasuan.shop
 @@||goukuai.com
@@ -26589,7 +26591,6 @@
 @@||hmsxw.com
 @@||hmszkj.com
 @@||hmting.com
-@@||hmtv.me
 @@||hmxw.com
 @@||hmyz.com
 @@||hmz.com
@@ -26640,6 +26641,7 @@
 @@||hngh.org
 @@||hngican.com
 @@||hngoldcorp.com
+@@||hngqjc.com
 @@||hngtrust.com
 @@||hngwg.com
 @@||hngyzx.org
@@ -29315,7 +29317,6 @@
 @@||imedp.com
 @@||imeete.com
 @@||imeete.net
-@@||imeibian.com
 @@||imeidb.com
 @@||imeihei.com
 @@||imeiju.cc
@@ -32417,6 +32418,7 @@
 @@||jumeinet.com
 @@||jumengco.com
 @@||jumengren.com
+@@||jumengtbs.net
 @@||jumi-cdn.com
 @@||jumi.com
 @@||jumi18.com
@@ -45132,6 +45134,7 @@
 @@||root-servers.world
 @@||root1111.com
 @@||rootcloud.com
+@@||rootdata.com
 @@||rootguide.org
 @@||rootk.com
 @@||rootop.org
@@ -45757,6 +45760,7 @@
 @@||scdnmogt.com
 @@||scdnn4t9.com
 @@||scdno5zl.com
+@@||scdnrlm1.com
 @@||scdnrvy1.com
 @@||scdnucc5.com
 @@||scdnurea.com
@@ -47107,7 +47111,6 @@
 @@||shoubaodan.com
 @@||shouce.ren
 @@||shouce365.com
-@@||shouchaobao.vip
 @@||shoucheng123.com
 @@||shoucw.com
 @@||shoudayy.net
@@ -55130,7 +55133,6 @@
 @@||whsir.com
 @@||whsladz.com
 @@||whsladz.net
-@@||whsoftway.com
 @@||whsql.org
 @@||whsqsoft.com
 @@||whsrc.com
@@ -56846,6 +56848,7 @@
 @@||xfztc.com
 @@||xgamevip.com
 @@||xgantt.net
+@@||xgate.com
 @@||xgcs618.com
 @@||xgcsczyc.com
 @@||xgcsyg.com
@@ -59062,6 +59065,7 @@
 @@||yanghengjun.com
 @@||yanghua.com
 @@||yanghui.com
+@@||yangjiaofood.com
 @@||yangjie.li
 @@||yangjisen.com
 @@||yangkatie.com
@@ -61310,7 +61314,6 @@
 @@||yundianjia.com
 @@||yundianseo.com
 @@||yundiantech.com
-@@||yundns.vip
 @@||yundongfang.com
 @@||yundonghao.com
 @@||yundongit.com
@@ -62896,6 +62899,7 @@
 @@||zhiwo.com
 @@||zhiwushuo.com
 @@||zhiwuwang.com
+@@||zhixi.com
 @@||zhixiaohuoke.com
 @@||zhixiaoren.com
 @@||zhixin-semi.com
