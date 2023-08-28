@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2023-08-27 01:16:35 UTC
+! Updated: 2023-08-28 01:13:40 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-6.com
@@ -11035,7 +11035,6 @@
 ||bkweek.com
 ||bkwgf.com
 ||bkxs.net
-||bkz8.com
 ||bkzzy.com
 ||bl.com
 ||bl0757.com
@@ -12728,6 +12727,7 @@
 ||cdnhwclxu105.com
 ||cdnhwcprh113.com
 ||cdnhwctnm107.com
+||cdnhwcxcy07.com
 ||cdnhwczxh101.com
 ||cdnidc.net
 ||cdnjson.com
@@ -13435,6 +13435,7 @@
 ||cheoz.com
 ||chepin88.com
 ||chepinnet.com
+||cherimm.com
 ||cherymanuals.com
 ||cheshi-img.com
 ||cheshi.com
@@ -13897,7 +13898,6 @@
 ||chinakingland.com
 ||chinakingo.com
 ||chinakongzi.org
-||chinaks.net
 ||chinaksi.com
 ||chinakyzl.com
 ||chinalabexpo.com
@@ -16826,7 +16826,6 @@
 ||d1xz.net
 ||d20.net
 ||d2fan.com
-||d2fbf.com
 ||d2film.com
 ||d2kdi2ss.com
 ||d2scdn.com
@@ -17553,6 +17552,7 @@
 ||deeplearn.me
 ||deepoon.com
 ||deepsheet.net
+||deeptechchina.com
 ||deerchao.net
 ||deerex.com
 ||deerma.com
@@ -18162,7 +18162,6 @@
 ||dislytegame.com
 ||dismall.com
 ||disneybox.com
-||dispnt.com
 ||distantmeaning.com
 ||distinctclinic.com
 ||distribution.qatp1.net
@@ -19303,7 +19302,6 @@
 ||dy1905.net
 ||dy2018.com
 ||dy2018.net
-||dy8.org
 ||dybeta.com
 ||dycar.net
 ||dycars.com
@@ -21159,7 +21157,6 @@
 ||fasionchan.com
 ||fast.im
 ||fastadmin.net
-||fastadx.com
 ||fastbestbetergoodcdn.com
 ||fastcdn.com
 ||fastcuting.com
@@ -21525,6 +21522,7 @@
 ||ff8828.com
 ||ffan.com
 ||ffasp.com
+||ffbon.com
 ||ffcell.com
 ||ffdns.net
 ||ffeeii.com
@@ -22325,7 +22323,6 @@
 ||fute.com
 ||futianlvshi.com
 ||futufin.com
-||futuhk.com
 ||futuhn.com
 ||futuku.com
 ||futuniuniu.com
@@ -22381,7 +22378,6 @@
 ||fwdqw.com
 ||fwhzxxgbyy.com
 ||fwqbdn.com
-||fwqp884.com
 ||fwqtg.net
 ||fwqzx.com
 ||fwsir.com
@@ -28870,7 +28866,6 @@
 ||ifeehei.xyz
 ||ifeimo.com
 ||ifeng.com
-||ifeng.fm
 ||ifengcdn.com
 ||ifenghui.com
 ||ifengimg.com
@@ -32613,7 +32608,6 @@
 ||jxtvshop.com
 ||jxtyzx.org
 ||jxtzw.com
-||jxubbs.com
 ||jxunicom.com
 ||jxw123.com
 ||jxwmanage.com
@@ -34230,7 +34224,6 @@
 ||l2t7.cc
 ||l360qwfgg.com
 ||l68.net
-||l77777777.com
 ||l7audiolab.com
 ||l99.com
 ||l9p9b.xyz
@@ -37826,6 +37819,7 @@
 ||mgkj.vip
 ||mgl9.com
 ||mglip.com
+||mgmovie.net
 ||mgmqq.net
 ||mgogo.com
 ||mgplay.com.tw
@@ -38873,6 +38867,7 @@
 ||msits.com
 ||mskjf.com
 ||mslzz.com
+||msm.moe
 ||msmartlife.com
 ||msmbjp.com
 ||mspharm.com
@@ -39419,7 +39414,6 @@
 ||n459.com
 ||n4x8.xyz
 ||n5738.com
-||n77777777.com
 ||n802.com
 ||n9cn.net
 ||n9z.net
@@ -42641,7 +42635,6 @@
 ||ptyqm.com
 ||pua.hk
 ||puaas.com
-||puahome.com
 ||puaihospital.net
 ||puasu.com
 ||puata.info
@@ -42916,7 +42909,6 @@
 ||qddfxfpx.com
 ||qddown.com
 ||qddsjx.com
-||qdeconomic.com
 ||qdfuns.com
 ||qdgaoshanyun.com
 ||qdgw.com
@@ -48723,6 +48715,7 @@
 ||starooo.com
 ||starpainters.net
 ||starpiao.com
+||starrails.com
 ||starrockinvest.com
 ||starrtc.com
 ||starrydyn.com
@@ -50580,7 +50573,6 @@
 ||thegraduation.store
 ||theguangdong.com
 ||thehanshow.com
-||thehuskyhipster.com
 ||thejamy.com
 ||thejiangmen.com
 ||thejoyrun.com
@@ -54671,7 +54663,6 @@
 ||wenjiwu.com
 ||wenjuan.cc
 ||wenjuan.com
-||wenjuan.in
 ||wenjuan.link
 ||wenjuan.ltd
 ||wenjuan.net
@@ -56757,7 +56748,6 @@
 ||xfxb.net
 ||xfyousheng.com
 ||xfyun.com
-||xfyxfy.com
 ||xfzhsf.com
 ||xfztc.com
 ||xgamevip.com
@@ -59242,7 +59232,6 @@
 ||ycwhys.com
 ||ycxfgroup.com
 ||ycxjtd.com
-||ycyhhx.com
 ||ycyjkj.com
 ||ycym.com
 ||ycypin.com
@@ -61072,6 +61061,7 @@
 ||yuejuanbao.com
 ||yuekenet.com
 ||yuekeyun.com
+||yuelanxinghe.com
 ||yueloo.com
 ||yuelu.net
 ||yuelun.com
@@ -62496,6 +62486,7 @@
 ||zhaoyinqian.com
 ||zhaoyo.com
 ||zhaoyuan365.com
+||zhaoyuanedu.com
 ||zhaoyun.com
 ||zhaozhanxu.com
 ||zhaozhaoqu.com
@@ -64355,6 +64346,7 @@
 ||zyrmw.com
 ||zyrykbiandao.com
 ||zys.me
+||zystarlink.com
 ||zyt8.com
 ||zytuozhan.com
 ||zytxgame.com
