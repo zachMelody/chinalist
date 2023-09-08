@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2023-09-07 01:13:36 UTC
+! Updated: 2023-09-08 01:13:52 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-6.com
@@ -2144,7 +2144,6 @@
 ||2529.com
 ||253.com
 ||253669vqx.com
-||25386.cc
 ||253952.com
 ||253u.com
 ||2541.com
@@ -3107,7 +3106,6 @@
 ||3q2008.com
 ||3qhouse.com
 ||3qwe.com
-||3qzone.com
 ||3renhe.net
 ||3richman.com
 ||3rkr.com
@@ -5004,7 +5002,6 @@
 ||662city.com
 ||662p.com
 ||6631.com
-||663395.net
 ||66377311795.com
 ||66378.com
 ||66446200.com
@@ -5496,7 +5493,6 @@
 ||7937.com
 ||7940.com
 ||79432.com
-||7958.net
 ||7979u.com
 ||797sun.com
 ||79856.gs
@@ -6616,6 +6612,8 @@
 ||984g.com
 ||985.so
 ||985dh.com
+||985ks.com
+||985ks.net
 ||985sy.com
 ||986338dsd.com
 ||98654.com
@@ -6656,7 +6654,6 @@
 ||991kang.com
 ||9922524.com
 ||9928.tv
-||9929846.com
 ||9939.com
 ||99394.com
 ||993h.com
@@ -7074,7 +7071,6 @@
 ||acg18s.com
 ||acg4.com
 ||acg456.com
-||acg588.com
 ||acg6.com
 ||acgaa.xyz
 ||acgdb.com
@@ -7727,7 +7723,6 @@
 ||aisky.cc
 ||aiskycn.com
 ||aisojie.com
-||aisoutu.com
 ||aispeech.com
 ||aispreadtech.com
 ||aistar.site
@@ -7780,6 +7775,7 @@
 ||aixinquban.com
 ||aixinwu.org
 ||aixinyunfan.com
+||aixiu.net
 ||aixq.com
 ||aixue.net
 ||aixuedai.com
@@ -10206,6 +10202,7 @@
 ||bestechnic.com
 ||bestedm.net
 ||bestedm.org
+||besteduchina.com
 ||bestexpresser.com
 ||bestfuturevip.com
 ||bestgo.com
@@ -10659,6 +10656,7 @@
 ||bitetui.com
 ||bitgo.cc
 ||bitgo.net
+||bitgo.tech
 ||bitguai.com
 ||bithosts.net
 ||bithub00.com
@@ -11480,7 +11478,6 @@
 ||bskuav.com
 ||bsmz.net
 ||bspapp.com
-||bspia.com
 ||bsrczpw.com
 ||bsrkt.com
 ||bssrvdns.com
@@ -16518,6 +16515,7 @@
 ||cupdata.com
 ||cupdns.com
 ||cupfox.app
+||cupfox.com
 ||cupinn.com
 ||cuplayer.com
 ||cureedit.com
@@ -17778,7 +17776,6 @@
 ||dh7999.com
 ||dh818.com
 ||dh9191.com
-||dh975.com
 ||dh978.com
 ||dhb.hk
 ||dhb168.com
@@ -18027,7 +18024,6 @@
 ||diguobbs.com
 ||dihuikj.com
 ||diiqu.com
-||dijiahealth.com
 ||dijingchao.com
 ||dijiuban.com
 ||dijunsm.com
@@ -22196,6 +22192,7 @@
 ||fuimg.com
 ||fuiou.com
 ||fuioupay.com
+||fujfu.com
 ||fujiabin.com
 ||fujianrc.com
 ||fujiansme.com
@@ -24974,6 +24971,7 @@
 ||hanfei.net
 ||hanfengcars.com
 ||hanfugong.com
+||hangdaxinli.com
 ||hangduhc.com
 ||hangfushi.com
 ||hangge.com
@@ -25609,6 +25607,7 @@
 ||hcgroup.com
 ||hch518.com
 ||hchbblg.com
+||hchbsb.com
 ||hchezhu.com
 ||hchlidc.com
 ||hchliot.com
@@ -28899,6 +28898,7 @@
 ||igreatdream.com
 ||igtm-a101.com
 ||igtm-b101.com
+||igtm-e101.com
 ||igtm-meeting-tencent.com
 ||iguanyu.com
 ||iguazutraffic.xyz
@@ -29951,7 +29951,6 @@
 ||itdabao.com
 ||itdai.com
 ||itdcw.com
-||itdhz.com
 ||itdiffer.com
 ||itdks.com
 ||itdoor.net
@@ -31118,6 +31117,7 @@
 ||jiluchengshi.com
 ||jimeisilk.com
 ||jimeng.mobi
+||jimetec.com
 ||jimi168.com
 ||jimicn.com
 ||jimifashion.com
@@ -31601,6 +31601,7 @@
 ||jjdzc.com
 ||jjecn.com
 ||jjfinder.com
+||jjfuzu.com
 ||jjg630.com
 ||jjgjy.cc
 ||jjglobal.com
@@ -31697,7 +31698,6 @@
 ||jl7y.com
 ||jladi.com
 ||jlakes.org
-||jlayout.com
 ||jlbtrip.com
 ||jlc-gw.com
 ||jlc.com
@@ -31839,6 +31839,7 @@
 ||jobvvv.com
 ||jobyp.com
 ||jocat.com
+||jodeibel.com
 ||joe92.com
 ||johhan.com
 ||johogames.com
@@ -33117,6 +33118,7 @@
 ||ken.io
 ||ken74.com
 ||kename.com
+||kendingde.com
 ||kendocn.com
 ||kendryte.com
 ||kenfor.com
@@ -34142,6 +34144,7 @@
 ||kztpms.com
 ||kzwr.com
 ||kzynews.com
+||kzyzz.com
 ||l-zb.com
 ||l069.com
 ||l2h.site
@@ -35368,6 +35371,7 @@
 ||lingrn.com
 ||lingshangkaihua.com
 ||lingshi.com
+||lingsoul.com
 ||lingtaoke.com
 ||lingtiao.com
 ||lingtool.com
@@ -38965,6 +38969,7 @@
 ||mwrfabc.com
 ||mwrfchina.org
 ||mwryx.com
+||mwtee.com
 ||mwyzhcdn.com
 ||mx-industry.com
 ||mx007.com
@@ -39378,7 +39383,6 @@
 ||nandufoundation.org
 ||nanerjia.com
 ||nanfu.com
-||nangcasc.com
 ||nanguache.com
 ||nangualin.com
 ||nanhaitoday.com
@@ -44574,6 +44578,7 @@
 ||reformdata.org
 ||refractorywin.com
 ||reg007.com
+||regengbaike.com
 ||regexr-cn.com
 ||regioninfo-pa.googleapis.com
 ||reglogo.net
@@ -44604,7 +44609,6 @@
 ||rencaiaaa.com
 ||rencaijob.com
 ||rendajingjiluntan.com
-||rendefpc.com
 ||renderbus.com
 ||renderincloud.com
 ||rendna.com
@@ -48213,7 +48217,6 @@
 ||soozhu.com
 ||soperson.com
 ||sophgo.com
-||sophiatiles.com
 ||soq.com
 ||soqicrm.com
 ||soquair.com
@@ -48558,7 +48561,9 @@
 ||sst-sd.com
 ||sswater.com
 ||sswchina.com
+||ssxcycy.com
 ||ssxf.net
+||ssxpxjt.com
 ||ssxxp.com
 ||ssyar.com
 ||ssyer.com
@@ -49977,6 +49982,7 @@
 ||taoniu.com
 ||taoniupin.com
 ||taooo.cc
+||taopb.com
 ||taopiaopiao.com
 ||taopinquan.com
 ||taoq.net
@@ -49992,7 +49998,6 @@
 ||taosj.com
 ||taotao.com
 ||taotaocar.com
-||taotaodm.com
 ||taotaoxz.com
 ||taotieren.com
 ||taotiwang.com
@@ -51561,7 +51566,6 @@
 ||tsp189.com
 ||tspsy.com
 ||tspweb.com
-||tsqt.net
 ||tsqw.com
 ||tsrcw.com
 ||tsshunxin.com
@@ -53140,6 +53144,7 @@
 ||viewstock.com
 ||viewtool.com
 ||viewtrans.com
+||vigtm-meeting-tencent.com
 ||viigee.com
 ||viisan.com
 ||viitalk.com
@@ -55249,6 +55254,7 @@
 ||wjrcb.com
 ||wjshw.com
 ||wjsw.com
+||wjtzyg.com
 ||wjunjie.com
 ||wjwy.com
 ||wjx.com
@@ -56408,7 +56414,6 @@
 ||xbiquge.cc
 ||xbiquge.com
 ||xbiquge.la
-||xbiquge.so
 ||xbiquge.tw
 ||xbiquge6.com
 ||xbiqugew.com
@@ -56480,6 +56485,7 @@
 ||xcpapa.site
 ||xcpapa.xyz
 ||xcphzs.com
+||xcpxssx.com
 ||xcq2022.com
 ||xcqxcq.com
 ||xcrxykl.com
@@ -56827,7 +56833,6 @@
 ||xianlaihy.com
 ||xianlife.com
 ||xianmaiyangsheng.com
-||xianms.com
 ||xianniuzu.com
 ||xianpinyun.com
 ||xianpp.com
@@ -62186,7 +62191,6 @@
 ||zhandodo.com
 ||zhang.ge
 ||zhang365.com
-||zhang6.net
 ||zhangbo.org
 ||zhangchi.art
 ||zhangchi.work
