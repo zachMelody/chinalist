@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2023-09-25 01:15:07 UTC
+! Updated: 2023-09-26 01:14:58 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-6.com
