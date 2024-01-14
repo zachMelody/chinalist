@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2024-01-13 01:19:26 UTC
+! Updated: 2024-01-14 01:25:50 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-6.com
@@ -2769,7 +2769,6 @@
 ||3699wan.com
 ||369wenku.com
 ||369xxw.com
-||36cao.live
 ||36dianping.com
 ||36dj.com
 ||36hjob.com
@@ -4185,7 +4184,6 @@
 ||5317wan.com
 ||531pool.com
 ||532106.com
-||5321vip.com
 ||533.com
 ||533.net
 ||5334.com
@@ -4236,6 +4234,7 @@
 ||54job.com
 ||54kefu.net
 ||54lol.com
+||54maimai.com
 ||54md.com
 ||54op.com
 ||54pictu.com
@@ -7642,7 +7641,6 @@
 ||alexhaohao.com
 ||alexyan.cc
 ||alfeng.com
-||alfheim.cc
 ||algorithmart.com
 ||ali-health.com
 ||ali-star.com
@@ -8563,7 +8561,6 @@
 ||armsword.com
 ||armystar.com
 ||arocmag.com
-||aromalong.com
 ||arongsoft.com
 ||arp.cc
 ||arpg2.com
@@ -8907,7 +8904,6 @@
 ||awspal.com
 ||awstar.net
 ||awtmt.com
-||awu3.net
 ||awuming.com
 ||awx1.com
 ||ax2nc4.ren
@@ -10940,7 +10936,6 @@
 ||bojianger.com
 ||bojoy.net
 ||bojun-import.com
-||bojuwang.com
 ||bokanghui.net
 ||bokao2o.com
 ||boke.com
@@ -16022,7 +16017,6 @@
 ||cszzjc.com
 ||ct-cdm.com
 ||ct-laser.com
-||ct10000.com
 ||ct108.com
 ||ct52.com
 ||ctaca.com
@@ -16524,7 +16518,6 @@
 ||dahepiao.com
 ||dahongba.net
 ||dahouduan.com
-||dahua8.com
 ||dahuaab.com
 ||dahuaddns.com
 ||dahuatech.com
@@ -17067,7 +17060,6 @@
 ||dduwork.com
 ||ddweilai.com
 ||ddwhm.com
-||ddwzh.com
 ||ddxq.mobi
 ||ddxstxt8.com
 ||ddyqh.com
@@ -17527,7 +17519,6 @@
 ||dianxin.net
 ||dianxinnews.com
 ||dianxinos.com
-||dianyikongjie.com
 ||dianyingjie.com
 ||dianyingshow.com
 ||dianyingwenxue.com
@@ -17674,6 +17665,7 @@
 ||dinggou.org
 ||dinghaiec.com
 ||dinghuaren.com
+||dinghui.org
 ||dinghuihuojia.com
 ||dinghuo123.com
 ||dinghuo365.com
@@ -18484,6 +18476,7 @@
 ||drm-x.com
 ||drm-x.net
 ||drmaml.com
+||drockart.com
 ||droi.com
 ||droibaas.com
 ||dropsec.xyz
@@ -19370,7 +19363,6 @@
 ||edt2018.com
 ||edtsoft.com
 ||edu-book.com
-||edu-chineseembassy-uk.org
 ||edu-cj.com
 ||edu-nw.com
 ||edu-shanghai.net
@@ -20020,7 +20012,6 @@
 ||eswin.com
 ||eswxj.com
 ||eswzx.com
-||esycd.com
 ||eszmall.com
 ||esztsg.org
 ||esztyg.com
@@ -21513,7 +21504,6 @@
 ||fovmy.com
 ||fox-studio.net
 ||fox008.com
-||fox800.xyz
 ||foxconn.com
 ||foxera.com
 ||foxmail.com
@@ -24737,6 +24727,7 @@
 ||haosix.com
 ||haosou.com
 ||haostay.com
+||haotgame.com
 ||haotianhuyu.com
 ||haotihui.com
 ||haotijin.com
@@ -27096,7 +27087,6 @@
 ||huisky.com
 ||huisou.com
 ||huisuoping.com
-||huitangwenquan.com
 ||huitao.net
 ||huitaodang.com
 ||huitaoyouhui.com
@@ -27762,6 +27752,7 @@
 ||iadsdk.apple.com
 ||iaeac.org
 ||iaikx.com
+||iaixue.com
 ||ialicdn.com
 ||ialloc.com
 ||iambanban.com
@@ -30792,7 +30783,6 @@
 ||jinzheled.com
 ||jinzhidagl.com
 ||jinzhoubank.com
-||jinzhouwp.com
 ||jinzhucaifu.com
 ||jinzhuguo.com
 ||jinzjy.com
@@ -35185,7 +35175,6 @@
 ||lnamphp.com
 ||lncldapi.com
 ||lncnw.com
-||lndao.com
 ||lndhdx.com
 ||lndwkj.com
 ||lnemci.com
@@ -35492,7 +35481,6 @@
 ||lovev.com
 ||lovewith.me
 ||lovewj.info
-||lovezhuoyou.com
 ||lovfp.com
 ||lovgiin.com
 ||lovology.com
@@ -35699,7 +35687,6 @@
 ||lumin.tech
 ||lumingtec.com
 ||lumiunited.com
-||lumyhouse.com
 ||lunar2013.com
 ||lunchong.com
 ||lundao.pub
@@ -36319,7 +36306,6 @@
 ||manewvr.com
 ||manfen.net
 ||mangafuna.xyz
-||mangafunc.fun
 ||mangg.com
 ||mangg.net
 ||mangguo.com
@@ -37423,7 +37409,6 @@
 ||miot-spec.org
 ||mipa.fun
 ||mipacc.com
-||mipang.com
 ||mipangwang.com
 ||mipay.com
 ||mipcdn.com
@@ -38916,7 +38901,6 @@
 ||netsun.com
 ||nettvl.net
 ||networkbench.com
-||networkbrand.com
 ||netzonesoft.com
 ||neu-reality.com
 ||neucrack.com
@@ -40653,7 +40637,6 @@
 ||parkbees.com
 ||parkblop.com
 ||parkchina.net
-||parkdaily.com
 ||parkicloud.com
 ||parkingjet.com
 ||parkingos.club
@@ -40927,6 +40910,7 @@
 ||pfwx.com
 ||pg-leak.com
 ||pg114.net
+||pg8090.com
 ||pg9997.com
 ||pgbee.com
 ||pgc.tv
@@ -40956,7 +40940,6 @@
 ||phnixpool.com
 ||pho.so
 ||phodal.com
-||phodin.com
 ||phoemix.net
 ||phoenix-ea.com
 ||phoenixtea.org
@@ -42161,7 +42144,6 @@
 ||qhtycp.com
 ||qhtyzx.com
 ||qhupdate.com
-||qhwh.com
 ||qhwmw.com
 ||qhwww.com
 ||qhxmlyts.com
@@ -43919,7 +43901,6 @@
 ||rinlink.com
 ||rinvay.cc
 ||ripic.xyz
-||rippleos.com
 ||rippletek.com
 ||risc-v1.com
 ||riscv-mcu.com
@@ -45092,6 +45073,7 @@
 ||seekfunbook.com
 ||seekhill.com
 ||seekonly.net
+||seekswan.com
 ||seelvyou.com
 ||seemmo.com
 ||seemoread.com
@@ -45244,7 +45226,6 @@
 ||sfccn.com
 ||sfcdn.org
 ||sfddj.com
-||sfefqwq3.com
 ||sfgj.org
 ||sfgy.org
 ||sfht.com
@@ -46017,7 +45998,6 @@
 ||shmylike.com
 ||shnaer.com
 ||shnb12315.com
-||shnczq.org
 ||shneweye.com
 ||shnsyh.com
 ||shnti.com
@@ -49826,7 +49806,6 @@
 ||tiexing.net
 ||tiexiuyugudao.com
 ||tiexue.net
-||tieyi.tm
 ||tieyou.com
 ||tiezhima.com
 ||tiezis.com
@@ -50045,6 +50024,7 @@
 ||tlightsky.com
 ||tlinx.com
 ||tlivecdn.com
+||tlivecdnv2.com
 ||tlivemcdn.com
 ||tliveplay.com
 ||tlivepush.com
@@ -52569,7 +52549,6 @@
 ||vvmeiju.com
 ||vvo2o.com
 ||vvpgwg.xyz
-||vvpingtai.com
 ||vvpncdn.com
 ||vvstc.com
 ||vvtor.com
@@ -52779,7 +52758,6 @@
 ||wanfangtech.com
 ||wanfangtech.net
 ||wanfantian.com
-||wanfumei.net
 ||wanfuqianqiu.com
 ||wang-li.com
 ||wang-nan.com
@@ -52871,6 +52849,7 @@
 ||wangxiaobao.cc
 ||wangxiaobao.com
 ||wangxingcs.com
+||wangxingrenhb.com
 ||wangxinhao.com
 ||wangxinlicai.com
 ||wangyanpiano.com
@@ -53633,6 +53612,7 @@
 ||wenxuetiandi.com
 ||wenyijcc.com
 ||wenyoutai.com
+||wenytao.com
 ||wenyu6.com
 ||wenyw.com
 ||wenzaizhibo.com
@@ -55212,6 +55192,7 @@
 ||wz132.com
 ||wz16.net
 ||wz5.com
+||wzbks.com
 ||wzciming.com
 ||wzdjy.com
 ||wzdlqj.com
@@ -59213,7 +59194,6 @@
 ||youcaizhushou.com
 ||youcash.com
 ||youcha.net
-||youchedaren.net
 ||youchedi.com
 ||youchejiuxing.com
 ||youchent.com
@@ -59829,7 +59809,6 @@
 ||yueqi.com
 ||yueqiquan.com
 ||yueqiweixiu.com
-||yueqiziliao.com
 ||yueque.com
 ||yuer.com
 ||yuerbao.com
@@ -60157,7 +60136,6 @@
 ||yunyingmiao.com
 ||yunyingpai.com
 ||yunyingxuetang.com
-||yunyingzhe.com
 ||yunyis.com
 ||yunyize.com
 ||yunyoufeitian.com
@@ -61503,7 +61481,6 @@
 ||zhishengbang.com
 ||zhishi.com
 ||zhishi.tech
-||zhishibo.com
 ||zhishifenzi.com
 ||zhishilin.com
 ||zhishisoft.com
@@ -62169,7 +62146,6 @@
 ||zjfdc.net
 ||zjft.com
 ||zjgas.net
-||zjgctwh.com
 ||zjgf88.com
 ||zjghep.com
 ||zjgjj.com
