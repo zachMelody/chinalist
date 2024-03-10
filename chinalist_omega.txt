@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2024-03-09 01:10:47 UTC
+! Updated: 2024-03-10 01:18:16 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-6.com
@@ -4081,6 +4081,7 @@
 ||51kupai.com
 ||51kupin.com
 ||51kywang.com
+||51la.ink
 ||51la.net
 ||51labour.com
 ||51laizhe.com
@@ -8025,7 +8026,6 @@
 ||ahxwkj.com
 ||ahydnet.com
 ||ahyessoft.com
-||ahyouan.com
 ||ahyouth.com
 ||ahysxh.com
 ||ahyx.cc
@@ -12855,7 +12855,6 @@
 ||bxgtd.com
 ||bxgycfsb.com
 ||bxhaibao.com
-||bxiangui.com
 ||bxjob.net
 ||bxkejian.com
 ||bxkxw.com
@@ -24316,7 +24315,6 @@
 ||founderstruth.org
 ||foundertech.com
 ||foundertype.com
-||foundpdf.com
 ||founpad.com
 ||fountask.com
 ||four-faith.com
@@ -34319,7 +34317,6 @@
 ||jiaji28.net
 ||jiajia-china.com
 ||jiajia.tv
-||jiajia0752.com
 ||jiajiakt.com
 ||jiajianhudong.com
 ||jiajiao114.com
@@ -35684,7 +35681,6 @@
 ||jpthome.com
 ||jpush.io
 ||jpushoa.com
-||jpuyy.com
 ||jpwb.cc
 ||jpwb.net
 ||jpwind.com
@@ -43336,7 +43332,6 @@
 ||mpos.ren
 ||mpweixin.net
 ||mpxiaomi.net
-||mpxiaoshuo.com
 ||mpxx.net
 ||mqant.com
 ||mqc168.com
@@ -43485,7 +43480,6 @@
 ||mtsm12.com
 ||mttsq.com
 ||mtty.com
-||mtuacg.com
 ||mtuo.com
 ||mtv123.com
 ||mtw.so
@@ -48510,7 +48504,6 @@
 ||qingliange.com
 ||qingliangkeji.com
 ||qinglin.net
-||qinglinong.com
 ||qinglm.com
 ||qinglue.net
 ||qingly.ink
@@ -58429,7 +58422,6 @@
 ||tvnwang.com
 ||tvoao.com
 ||tvos.com
-||tvsou.com
 ||tvt.im
 ||tvtsg.com
 ||tvxio.com
@@ -58793,7 +58785,6 @@
 ||udamall.com
 ||udangjia.com
 ||udashi.com
-||udaxia.com
 ||udbac.com
 ||uddtrip.com
 ||udecig.com
@@ -62518,7 +62509,6 @@
 ||wping.org
 ||wpjam.com
 ||wpk8.com
-||wplizhi.com
 ||wpmtp.com
 ||wporder.com
 ||wproedu.com
@@ -62652,7 +62642,6 @@
 ||wsy.com
 ||wsy7.com
 ||wsyhn.com
-||wsyyxz.com
 ||wszjj.com
 ||wszkf.com
 ||wszkjs.com
