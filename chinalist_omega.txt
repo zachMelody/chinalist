@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2024-03-11 01:14:30 UTC
+! Updated: 2024-03-12 01:13:10 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-6.com
@@ -4760,7 +4760,6 @@
 ||5548.net
 ||555000d3.com
 ||5551557.com
-||5553089.com
 ||55555558.com
 ||555bb666cc.com
 ||555bb888bb.com
@@ -9663,6 +9662,7 @@
 ||asktao.com
 ||askxt.org
 ||askzybf.com
+||askzycdn.com
 ||aslk2018.com
 ||aslzw.com
 ||asm64.com
@@ -15035,7 +15035,6 @@
 ||china356.com
 ||china3gpp.com
 ||china4a.org
-||china50plus.com
 ||china5e.com
 ||china60.com
 ||china6688.com
@@ -16654,7 +16653,6 @@
 ||cnbksy.com
 ||cnbkw.com
 ||cnblogs.com
-||cnbluebox.com
 ||cnboat.com
 ||cnbooking.net
 ||cnbooks.org
@@ -21933,7 +21931,6 @@
 ||ediuschina.com
 ||edk24.com
 ||edlcaster.com
-||edmadf.com
 ||edmcn.net
 ||edmseller.com
 ||edns.com
@@ -22525,7 +22522,6 @@
 ||eqnvip.com
 ||equdong.net
 ||equipmentimes.com
-||equn.com
 ||eqxiu.com
 ||eqxiu.mobi
 ||eqxiul.com
@@ -23850,6 +23846,7 @@
 ||fi-play.com
 ||fi0.cc
 ||fi11tv162.com
+||fi11tv170.com
 ||fi1818.com
 ||fi94.com
 ||fibercrops.com
@@ -42247,7 +42244,6 @@
 ||mf8.biz
 ||mf999.com
 ||mfangwang.com
-||mfbgz.com
 ||mfbuluo.com
 ||mfcad.com
 ||mfcad.net
@@ -43119,7 +43115,6 @@
 ||mogumiao.com
 ||moguproxy.com
 ||mogutong.com
-||moguupd5.com
 ||moguv.com
 ||moguvet.com
 ||moguyun.com
@@ -44863,7 +44858,6 @@
 ||njrx.cc
 ||njsenwo.com
 ||njsjz.com
-||njskps.com
 ||njsxbw.com
 ||njsyue.com
 ||njtapery.com
@@ -44875,7 +44869,6 @@
 ||njwww.net
 ||njxbyy.com
 ||njxmsm.com
-||njxsmfyh.com
 ||njxsmz.com
 ||njxzwh.com
 ||njycwy.com
@@ -49538,7 +49531,6 @@
 ||qyjks.com
 ||qyjpzx.com
 ||qykh2009.com
-||qykodo.com
 ||qyle1.com
 ||qymgc.com
 ||qyous.com
@@ -55463,7 +55455,6 @@
 ||sxyj.net
 ||sxyrxb.com
 ||sxzb.app
-||sxzfcy.com
 ||sxzhaobiao.com
 ||sxzlycl.com
 ||sxzq.com
@@ -56928,6 +56919,7 @@
 ||thupdi.com
 ||thurcacca.org
 ||thwiki.cc
+||thwpmanage.com
 ||thxbxg.com
 ||thxddb.com
 ||thxedu.com
@@ -61990,7 +61982,6 @@
 ||wincn.com
 ||wincome.group
 ||wind.moe
-||wind2021.com
 ||windbg.download.prss.microsoft.com
 ||windcoder.com
 ||windhamchina.com
@@ -65219,7 +65210,6 @@
 ||xmqmnet.com
 ||xmr-zh.com
 ||xmrbi.com
-||xms45.com
 ||xmsec.cc
 ||xmseeyouyima.com
 ||xmsgame.com
@@ -66679,7 +66669,6 @@
 ||yexinggroup.com
 ||yeyaji9.com
 ||yeyday.com
-||yeyexx.com
 ||yeyexx8.com
 ||yeyezhenxuan.com
 ||yeyimg.com
@@ -67829,7 +67818,6 @@
 ||yoo66.com
 ||yoodb.com
 ||yooek.com
-||yooerjia.com
 ||yoogene.com
 ||yoohouse.com
 ||yoojia.com
