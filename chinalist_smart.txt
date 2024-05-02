@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2024-05-01 01:22:34 UTC
+! Updated: 2024-05-02 01:17:07 UTC
 ! This chinalist is expected to be used on SmartProxy.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 @@||0-6.com
@@ -2248,7 +2248,6 @@
 @@||236501.xyz
 @@||2366.com
 @@||23673.com
-@@||236v.cc
 @@||236z.com
 @@||237y.com
 @@||23bei.com
@@ -4344,7 +4343,6 @@
 @@||51zhucai.com
 @@||51zhujia.com
 @@||51zixiu.com
-@@||51zixuewang.com
 @@||51zjedu.com
 @@||51zjxm.com
 @@||51zmt.net
@@ -5778,7 +5776,6 @@
 @@||76065.com
 @@||7618.com
 @@||761a.com
-@@||762rc.com
 @@||7654.com
 @@||7659.com
 @@||765i.com
@@ -6807,7 +6804,6 @@
 @@||92lucky.com
 @@||92mp.com
 @@||92ni.com
-@@||92python.com
 @@||92shuoshuo.com
 @@||92sucai.com
 @@||92tianjin.com
@@ -10034,7 +10030,6 @@
 @@||ayidada.com
 @@||ayijx.com
 @@||ayilaile.com
-@@||ayizu.com
 @@||ayjs.net
 @@||aymhsy.com
 @@||ayqy.net
@@ -12193,7 +12188,6 @@
 @@||blogchina.com
 @@||blogchinese.com
 @@||blogcn.co
-@@||blogdriver.com
 @@||blogfeng.com
 @@||bloggern.com
 @@||bloghub.fun
@@ -21445,7 +21439,6 @@
 @@||dxton.com
 @@||dxwei.com
 @@||dxwfgg.com
-@@||dxxnews.com
 @@||dxxxfl.com
 @@||dxy.com
 @@||dxy.me
@@ -22516,7 +22509,6 @@
 @@||eng24.com
 @@||engeniustec.com
 @@||englishgoai.com
-@@||englishtownpromotion.com
 @@||engloncar.com
 @@||engpx.com
 @@||engr-z.com
@@ -22732,7 +22724,6 @@
 @@||escdn.com
 @@||esdaxiagu.com
 @@||esde.cc
-@@||esellerbox-case.com
 @@||esemseo.com
 @@||esensoft.com
 @@||esfimg.com
@@ -22946,7 +22937,6 @@
 @@||ew9z.com
 @@||ewaga.com
 @@||ewang.com
-@@||ewanshang.com
 @@||ewarecomputer.com
 @@||ewatt.com
 @@||ewceo.com
@@ -24571,6 +24561,7 @@
 @@||freekaoyan.com
 @@||freekeyan.com
 @@||freelycode.com
+@@||freelynb.com
 @@||freelynet.com
 @@||freemancn.com
 @@||freemdict.com
@@ -25534,7 +25525,6 @@
 @@||gdkz88.com
 @@||gdlingjie.net
 @@||gdlins.com
-@@||gdlscm.com
 @@||gdlsgz.com
 @@||gdmagam.com
 @@||gdmain.com
@@ -32056,6 +32046,7 @@
 @@||ibicn.com
 @@||ibidian.com
 @@||ibiji.com
+@@||ibilibili.com
 @@||ibimawen.com
 @@||ibimuyu.com
 @@||ibingniao.com
@@ -32388,7 +32379,6 @@
 @@||ideanote.cc
 @@||ideapool.tv
 @@||ideappt.com
-@@||ideasandroid.com
 @@||ideazhao.com
 @@||ideebank.com
 @@||ideepin.com
@@ -32907,7 +32897,6 @@
 @@||ilxdh.com
 @@||ilz.me
 @@||im-cc.com
-@@||im170.com
 @@||im286.com
 @@||im286.net
 @@||im2maker.com
@@ -34279,7 +34268,6 @@
 @@||jbb.one
 @@||jbcz.tv
 @@||jbdown.com
-@@||jbedu.org
 @@||jbelf.com
 @@||jbers.com
 @@||jbhtp.com
@@ -38444,7 +38432,6 @@
 @@||kv-kva.com
 @@||kvegg.com
 @@||kvenjoy.com
-@@||kvevv.com
 @@||kviso.com
 @@||kvkaa.com
 @@||kvogues.com
@@ -43209,7 +43196,6 @@
 @@||mixiong.tv
 @@||mixrnb.com
 @@||mixueedu.com
-@@||mixunds.com
 @@||mixvvideo.com
 @@||miyabaobei.com
 @@||miyaboke.com
@@ -43922,7 +43908,6 @@
 @@||mtblj.com
 @@||mtchome.com
 @@||mtcnsoft.com
-@@||mtcop.com
 @@||mtcsys.com
 @@||mtcx99.com
 @@||mtcxsw.com
@@ -47246,7 +47231,6 @@
 @@||pf168.com
 @@||pf178.com
 @@||pfcexpress.com
-@@||pfchai.com
 @@||pfhoo.com
 @@||pft12301.cc
 @@||pfwx.com
@@ -53407,7 +53391,6 @@
 @@||shrobotpark.com
 @@||shrsks.org
 @@||shruisong.net
-@@||shryjc.com
 @@||shryou.com
 @@||shsaic.net
 @@||shsbnu.net
@@ -53767,7 +53750,6 @@
 @@||sicent.com
 @@||sicheng.net
 @@||sicher-elevator.com
-@@||sichina.com
 @@||sichuan163.com
 @@||sichuanair.com
 @@||sichuangwy.org
@@ -55340,14 +55322,12 @@
 @@||step-by-step.tech
 @@||stfile.com
 @@||stg8.com
-@@||stgod.com
 @@||stgowan.com
 @@||sthforme.com
 @@||sthifi.com
 @@||sthke.com
 @@||stianfjelldal.com
 @@||sticksgame.com
-@@||stkey.win
 @@||stklt.com
 @@||stmaoyi.com
 @@||stmbuy.com
@@ -56659,7 +56639,6 @@
 @@||taimi100.com
 @@||tainengchong.com
 @@||taiqigame.com
-@@||tairan.com
 @@||tais3.com
 @@||taisantech.com
 @@||taishangshiwu.com
@@ -58774,7 +58753,6 @@
 @@||ttsmk.com
 @@||ttstream.com
 @@||ttsz8.com
-@@||ttt.sh
 @@||tttang.com
 @@||tttarot.com
 @@||tttde.com
@@ -58935,7 +58913,6 @@
 @@||tuituifang.com
 @@||tuituitang.com
 @@||tuixue.online
-@@||tuiyu.com
 @@||tuizx.com
 @@||tujia.com
 @@||tujiacdn.com
@@ -60162,6 +60139,7 @@
 @@||vacmic.com
 @@||vaedu.net
 @@||vaeliu.com
+@@||vaicdn.com
 @@||vaillant99.com
 @@||vainpz.com
 @@||vakku.com
@@ -61301,7 +61279,6 @@
 @@||wantumusic.com
 @@||wantwords.net
 @@||wanwang.space
-@@||wanweipc.com
 @@||wanweixin.com
 @@||wanwudezhi.com
 @@||wanwuelian.com
@@ -61349,6 +61326,7 @@
 @@||wapadv.com
 @@||waptt.com
 @@||wapzk.net
+@@||warchina.com
 @@||warcraftchina.com
 @@||warestage.com
 @@||warrillas.com
@@ -63006,7 +62984,6 @@
 @@||woiyu.com
 @@||wojiacloud.com
 @@||wojiaoni.com
-@@||wojilu.com
 @@||wok.com
 @@||wokaola.com
 @@||wokeji.com
@@ -63916,7 +63893,6 @@
 @@||x-kicks.com
 @@||x-mol.com
 @@||x-plans.com
-@@||x-rayaz.com
 @@||x-storm.com
 @@||x-tetris.com
 @@||x-xiangsh.com
@@ -66985,7 +66961,6 @@
 @@||yaodou.net
 @@||yaofangwang.com
 @@||yaofangwang.net
-@@||yaofx.net
 @@||yaoge123.com
 @@||yaoguo.com
 @@||yaohaixiao.com
@@ -69202,7 +69177,6 @@
 @@||yucl.com
 @@||yucoolgame.com
 @@||yucui.org
-@@||yudi.com
 @@||yudianda.com
 @@||yudiangame.vip
 @@||yudiaomingjia.com
