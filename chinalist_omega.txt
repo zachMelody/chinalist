@@ -1,5 +1,5 @@
 [AutoProxy 0.2.9]
-! Updated: 2024-05-09 01:18:34 UTC
+! Updated: 2024-05-10 01:19:28 UTC
 ! This chinalist only works with SwitchyOmega.
 ! For other versions, please check https://github.com/Rongronggg9/chinalist
 ||0-6.com
@@ -10981,7 +10981,6 @@
 ||beancomm.com
 ||bear20.com
 ||bearead.com
-||beareyes.com
 ||beargoo.com
 ||bearingclub.com
 ||bearjoy.com
@@ -12663,7 +12662,6 @@
 ||brtbeacon.com
 ||brtbeacon.net
 ||brttc.com
-||bruceit.com
 ||brunoxu.com
 ||bryonypie.com
 ||bs-dolfin.net
@@ -18391,7 +18389,6 @@
 ||custeel.com
 ||customsapp.com
 ||cut35.com
-||cutefishos.com
 ||cuteng.com
 ||cutercounter.com
 ||cutieshop153.com
@@ -18840,6 +18837,7 @@
 ||daidaicp.com
 ||daidaipu.com
 ||daidongxi.com
+||daief.tech
 ||daigou.com
 ||daiguaji.com
 ||daihaobiao.com
@@ -32996,7 +32994,6 @@
 ||imaccn.com
 ||imacso.com
 ||imaegoo.com
-||image-mangdiaxyz.com
 ||imageaccelerate.com
 ||imageedu.com
 ||imagehub.cc
@@ -63849,7 +63846,6 @@
 ||www4.djicdn.com
 ||www48-365365.com
 ||www5.djicdn.com
-||wwwatch.in
 ||wwwbuild.net
 ||wwwer.net
 ||wwwic.net
